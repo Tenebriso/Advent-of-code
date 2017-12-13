@@ -37,11 +37,13 @@ def reverse_portion(current_pos, length):
 def sparse_to_dense():
     block_count = 0
     dense = [0] * 16
+    j = 0
     for number in l:
-        if block_count == 16:
-            block_count = 0
+        if j == 16:
+            j = 0
+            block_count += 1
         dense[block_count] ^= number
-        block_count += 1
+        j += 1
     return dense
 
 
@@ -50,6 +52,7 @@ def int_to_hex(dense):
     for number in dense:
         hexes.append("%0.2X".lower() % number)
     return hexes
+
 
 if __name__ == '__main__':
     lengths = reader('input_file')
@@ -60,11 +63,3 @@ if __name__ == '__main__':
             current_pos = reverse_portion(current_pos, length) + skip + 1
             skip += 1
     print(''.join(int_to_hex(sparse_to_dense())))
-    '''
-    while True:
-        try:
-            length = int(r.next())
-        except StopIteration:
-            break
-    print(l[0] * l[1])
-    '''
