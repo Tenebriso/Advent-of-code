@@ -5,7 +5,7 @@ Takes as input a file of frequency changes and returns the first duplicate frequ
 
 from part1 import frequency_parser
 
-INPUT_FILE = "input"
+INPUT_FILE = "input2"
 
 
 def detect_duplicate(filename):
@@ -15,6 +15,7 @@ def detect_duplicate(filename):
     parser = frequency_parser(filename)
     frequency = 0
     frequencies = set([0])
+    counter = 0
     while True:
         try:
             frequency += next(parser)
