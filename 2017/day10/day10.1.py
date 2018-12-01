@@ -1,4 +1,4 @@
-l = [x for x in range(5)]
+l = [x for x in range(256)]
 
 
 def reader(filename):
