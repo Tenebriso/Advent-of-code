@@ -15,7 +15,6 @@ def detect_duplicate(filename):
     parser = frequency_parser(filename)
     frequency = 0
     frequencies = set([0])
-    counter = 0
     while True:
         try:
             frequency += next(parser)
