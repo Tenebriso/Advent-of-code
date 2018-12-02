@@ -6,7 +6,7 @@ Takes as input a file of frequency changes and returns the final frequency
 INPUT_FILE = "input"
 
 def frequency_parser(filename):
-    ''' Generator function that go over each element in the file,
+    ''' Generator function that goes over each element in the file,
     converts it to int and returns it '''
     with open(filename) as input_file:
         for line in input_file:

@@ -20,6 +20,7 @@ def build_firewall(filename):
 def traverse_firewall():
     severity = 0
     end = max(firewall.keys())
+    step = 0
     for step in range(end + 1):
         if step not in firewall:
             continue
@@ -35,4 +36,5 @@ def traverse_firewall():
 
 if __name__ == '__main__':
     build_firewall('input_file')
+    print firewall
     print(traverse_firewall())
