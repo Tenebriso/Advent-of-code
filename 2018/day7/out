@@ -1,0 +1,12212 @@
+A: set(['Y', 'O'])
+C: set(['A', 'B', 'D', 'F', 'I', 'H', 'K', 'J', 'L', 'P', 'R', 'U', 'V'])
+B: set(['A', 'K'])
+E: set(['B'])
+D: set(['B', 'F', 'S', 'W', 'X', 'Z'])
+G: set(['J', 'N', 'Q', 'S', 'R', 'V', 'X'])
+F: set(['G', 'O', 'Q', 'T', 'W', 'Z'])
+I: set(['O'])
+H: set(['E', 'J', 'M', 'O', 'T', 'W', 'X'])
+K: set(['J', 'O'])
+M: set(['A', 'T', 'V', 'Y', 'X', 'Z'])
+L: set(['E', 'D', 'H', 'M', 'Q', 'S'])
+Q: set(['Y', 'S', 'N'])
+P: set(['D', 'F', 'H', 'K', 'M', 'L', 'S', 'U', 'Y', 'X'])
+R: set(['Y', 'A', 'K'])
+U: set(['Y', 'O'])
+T: set(['G', 'I', 'K', 'J', 'S', 'U', 'W', 'V'])
+W: set(['Y'])
+V: set(['Y', 'S', 'B', 'E'])
+Y: set(['J', 'O'])
+X: set(['Q', 'R', 'E', 'V'])
+Z: set(['A', 'B', 'G', 'T', 'W'])
+<------------------ 0 -----------------> 
+worker0:
+	new work: J
+	new status: 70
+worker1:
+	new work: N
+	new status: 74
+worker2:
+	new work: O
+	new status: 75
+worker3:
+	new work: S
+	new status: 79
+worker4:
+	new work: None
+<------------------ 1 -----------------> 
+worker0:
+	new status: 69
+worker1:
+	new status: 73
+worker2:
+	new status: 74
+worker3:
+	new status: 78
+worker4:
+	new work: None
+<------------------ 2 -----------------> 
+worker0:
+	new status: 68
+worker1:
+	new status: 72
+worker2:
+	new status: 73
+worker3:
+	new status: 77
+worker4:
+	new work: None
+<------------------ 3 -----------------> 
+worker0:
+	new status: 67
+worker1:
+	new status: 71
+worker2:
+	new status: 72
+worker3:
+	new status: 76
+worker4:
+	new work: None
+<------------------ 4 -----------------> 
+worker0:
+	new status: 66
+worker1:
+	new status: 70
+worker2:
+	new status: 71
+worker3:
+	new status: 75
+worker4:
+	new work: None
+<------------------ 5 -----------------> 
+worker0:
+	new status: 65
+worker1:
+	new status: 69
+worker2:
+	new status: 70
+worker3:
+	new status: 74
+worker4:
+	new work: None
+<------------------ 6 -----------------> 
+worker0:
+	new status: 64
+worker1:
+	new status: 68
+worker2:
+	new status: 69
+worker3:
+	new status: 73
+worker4:
+	new work: None
+<------------------ 7 -----------------> 
+worker0:
+	new status: 63
+worker1:
+	new status: 67
+worker2:
+	new status: 68
+worker3:
+	new status: 72
+worker4:
+	new work: None
+<------------------ 8 -----------------> 
+worker0:
+	new status: 62
+worker1:
+	new status: 66
+worker2:
+	new status: 67
+worker3:
+	new status: 71
+worker4:
+	new work: None
+<------------------ 9 -----------------> 
+worker0:
+	new status: 61
+worker1:
+	new status: 65
+worker2:
+	new status: 66
+worker3:
+	new status: 70
+worker4:
+	new work: None
+<------------------ 10 -----------------> 
+worker0:
+	new status: 60
+worker1:
+	new status: 64
+worker2:
+	new status: 65
+worker3:
+	new status: 69
+worker4:
+	new work: None
+<------------------ 11 -----------------> 
+worker0:
+	new status: 59
+worker1:
+	new status: 63
+worker2:
+	new status: 64
+worker3:
+	new status: 68
+worker4:
+	new work: None
+<------------------ 12 -----------------> 
+worker0:
+	new status: 58
+worker1:
+	new status: 62
+worker2:
+	new status: 63
+worker3:
+	new status: 67
+worker4:
+	new work: None
+<------------------ 13 -----------------> 
+worker0:
+	new status: 57
+worker1:
+	new status: 61
+worker2:
+	new status: 62
+worker3:
+	new status: 66
+worker4:
+	new work: None
+<------------------ 14 -----------------> 
+worker0:
+	new status: 56
+worker1:
+	new status: 60
+worker2:
+	new status: 61
+worker3:
+	new status: 65
+worker4:
+	new work: None
+<------------------ 15 -----------------> 
+worker0:
+	new status: 55
+worker1:
+	new status: 59
+worker2:
+	new status: 60
+worker3:
+	new status: 64
+worker4:
+	new work: None
+<------------------ 16 -----------------> 
+worker0:
+	new status: 54
+worker1:
+	new status: 58
+worker2:
+	new status: 59
+worker3:
+	new status: 63
+worker4:
+	new work: None
+<------------------ 17 -----------------> 
+worker0:
+	new status: 53
+worker1:
+	new status: 57
+worker2:
+	new status: 58
+worker3:
+	new status: 62
+worker4:
+	new work: None
+<------------------ 18 -----------------> 
+worker0:
+	new status: 52
+worker1:
+	new status: 56
+worker2:
+	new status: 57
+worker3:
+	new status: 61
+worker4:
+	new work: None
+<------------------ 19 -----------------> 
+worker0:
+	new status: 51
+worker1:
+	new status: 55
+worker2:
+	new status: 56
+worker3:
+	new status: 60
+worker4:
+	new work: None
+<------------------ 20 -----------------> 
+worker0:
+	new status: 50
+worker1:
+	new status: 54
+worker2:
+	new status: 55
+worker3:
+	new status: 59
+worker4:
+	new work: None
+<------------------ 21 -----------------> 
+worker0:
+	new status: 49
+worker1:
+	new status: 53
+worker2:
+	new status: 54
+worker3:
+	new status: 58
+worker4:
+	new work: None
+<------------------ 22 -----------------> 
+worker0:
+	new status: 48
+worker1:
+	new status: 52
+worker2:
+	new status: 53
+worker3:
+	new status: 57
+worker4:
+	new work: None
+<------------------ 23 -----------------> 
+worker0:
+	new status: 47
+worker1:
+	new status: 51
+worker2:
+	new status: 52
+worker3:
+	new status: 56
+worker4:
+	new work: None
+<------------------ 24 -----------------> 
+worker0:
+	new status: 46
+worker1:
+	new status: 50
+worker2:
+	new status: 51
+worker3:
+	new status: 55
+worker4:
+	new work: None
+<------------------ 25 -----------------> 
+worker0:
+	new status: 45
+worker1:
+	new status: 49
+worker2:
+	new status: 50
+worker3:
+	new status: 54
+worker4:
+	new work: None
+<------------------ 26 -----------------> 
+worker0:
+	new status: 44
+worker1:
+	new status: 48
+worker2:
+	new status: 49
+worker3:
+	new status: 53
+worker4:
+	new work: None
+<------------------ 27 -----------------> 
+worker0:
+	new status: 43
+worker1:
+	new status: 47
+worker2:
+	new status: 48
+worker3:
+	new status: 52
+worker4:
+	new work: None
+<------------------ 28 -----------------> 
+worker0:
+	new status: 42
+worker1:
+	new status: 46
+worker2:
+	new status: 47
+worker3:
+	new status: 51
+worker4:
+	new work: None
+<------------------ 29 -----------------> 
+worker0:
+	new status: 41
+worker1:
+	new status: 45
+worker2:
+	new status: 46
+worker3:
+	new status: 50
+worker4:
+	new work: None
+<------------------ 30 -----------------> 
+worker0:
+	new status: 40
+worker1:
+	new status: 44
+worker2:
+	new status: 45
+worker3:
+	new status: 49
+worker4:
+	new work: None
+<------------------ 31 -----------------> 
+worker0:
+	new status: 39
+worker1:
+	new status: 43
+worker2:
+	new status: 44
+worker3:
+	new status: 48
+worker4:
+	new work: None
+<------------------ 32 -----------------> 
+worker0:
+	new status: 38
+worker1:
+	new status: 42
+worker2:
+	new status: 43
+worker3:
+	new status: 47
+worker4:
+	new work: None
+<------------------ 33 -----------------> 
+worker0:
+	new status: 37
+worker1:
+	new status: 41
+worker2:
+	new status: 42
+worker3:
+	new status: 46
+worker4:
+	new work: None
+<------------------ 34 -----------------> 
+worker0:
+	new status: 36
+worker1:
+	new status: 40
+worker2:
+	new status: 41
+worker3:
+	new status: 45
+worker4:
+	new work: None
+<------------------ 35 -----------------> 
+worker0:
+	new status: 35
+worker1:
+	new status: 39
+worker2:
+	new status: 40
+worker3:
+	new status: 44
+worker4:
+	new work: None
+<------------------ 36 -----------------> 
+worker0:
+	new status: 34
+worker1:
+	new status: 38
+worker2:
+	new status: 39
+worker3:
+	new status: 43
+worker4:
+	new work: None
+<------------------ 37 -----------------> 
+worker0:
+	new status: 33
+worker1:
+	new status: 37
+worker2:
+	new status: 38
+worker3:
+	new status: 42
+worker4:
+	new work: None
+<------------------ 38 -----------------> 
+worker0:
+	new status: 32
+worker1:
+	new status: 36
+worker2:
+	new status: 37
+worker3:
+	new status: 41
+worker4:
+	new work: None
+<------------------ 39 -----------------> 
+worker0:
+	new status: 31
+worker1:
+	new status: 35
+worker2:
+	new status: 36
+worker3:
+	new status: 40
+worker4:
+	new work: None
+<------------------ 40 -----------------> 
+worker0:
+	new status: 30
+worker1:
+	new status: 34
+worker2:
+	new status: 35
+worker3:
+	new status: 39
+worker4:
+	new work: None
+<------------------ 41 -----------------> 
+worker0:
+	new status: 29
+worker1:
+	new status: 33
+worker2:
+	new status: 34
+worker3:
+	new status: 38
+worker4:
+	new work: None
+<------------------ 42 -----------------> 
+worker0:
+	new status: 28
+worker1:
+	new status: 32
+worker2:
+	new status: 33
+worker3:
+	new status: 37
+worker4:
+	new work: None
+<------------------ 43 -----------------> 
+worker0:
+	new status: 27
+worker1:
+	new status: 31
+worker2:
+	new status: 32
+worker3:
+	new status: 36
+worker4:
+	new work: None
+<------------------ 44 -----------------> 
+worker0:
+	new status: 26
+worker1:
+	new status: 30
+worker2:
+	new status: 31
+worker3:
+	new status: 35
+worker4:
+	new work: None
+<------------------ 45 -----------------> 
+worker0:
+	new status: 25
+worker1:
+	new status: 29
+worker2:
+	new status: 30
+worker3:
+	new status: 34
+worker4:
+	new work: None
+<------------------ 46 -----------------> 
+worker0:
+	new status: 24
+worker1:
+	new status: 28
+worker2:
+	new status: 29
+worker3:
+	new status: 33
+worker4:
+	new work: None
+<------------------ 47 -----------------> 
+worker0:
+	new status: 23
+worker1:
+	new status: 27
+worker2:
+	new status: 28
+worker3:
+	new status: 32
+worker4:
+	new work: None
+<------------------ 48 -----------------> 
+worker0:
+	new status: 22
+worker1:
+	new status: 26
+worker2:
+	new status: 27
+worker3:
+	new status: 31
+worker4:
+	new work: None
+<------------------ 49 -----------------> 
+worker0:
+	new status: 21
+worker1:
+	new status: 25
+worker2:
+	new status: 26
+worker3:
+	new status: 30
+worker4:
+	new work: None
+<------------------ 50 -----------------> 
+worker0:
+	new status: 20
+worker1:
+	new status: 24
+worker2:
+	new status: 25
+worker3:
+	new status: 29
+worker4:
+	new work: None
+<------------------ 51 -----------------> 
+worker0:
+	new status: 19
+worker1:
+	new status: 23
+worker2:
+	new status: 24
+worker3:
+	new status: 28
+worker4:
+	new work: None
+<------------------ 52 -----------------> 
+worker0:
+	new status: 18
+worker1:
+	new status: 22
+worker2:
+	new status: 23
+worker3:
+	new status: 27
+worker4:
+	new work: None
+<------------------ 53 -----------------> 
+worker0:
+	new status: 17
+worker1:
+	new status: 21
+worker2:
+	new status: 22
+worker3:
+	new status: 26
+worker4:
+	new work: None
+<------------------ 54 -----------------> 
+worker0:
+	new status: 16
+worker1:
+	new status: 20
+worker2:
+	new status: 21
+worker3:
+	new status: 25
+worker4:
+	new work: None
+<------------------ 55 -----------------> 
+worker0:
+	new status: 15
+worker1:
+	new status: 19
+worker2:
+	new status: 20
+worker3:
+	new status: 24
+worker4:
+	new work: None
+<------------------ 56 -----------------> 
+worker0:
+	new status: 14
+worker1:
+	new status: 18
+worker2:
+	new status: 19
+worker3:
+	new status: 23
+worker4:
+	new work: None
+<------------------ 57 -----------------> 
+worker0:
+	new status: 13
+worker1:
+	new status: 17
+worker2:
+	new status: 18
+worker3:
+	new status: 22
+worker4:
+	new work: None
+<------------------ 58 -----------------> 
+worker0:
+	new status: 12
+worker1:
+	new status: 16
+worker2:
+	new status: 17
+worker3:
+	new status: 21
+worker4:
+	new work: None
+<------------------ 59 -----------------> 
+worker0:
+	new status: 11
+worker1:
+	new status: 15
+worker2:
+	new status: 16
+worker3:
+	new status: 20
+worker4:
+	new work: None
+<------------------ 60 -----------------> 
+worker0:
+	new status: 10
+worker1:
+	new status: 14
+worker2:
+	new status: 15
+worker3:
+	new status: 19
+worker4:
+	new work: None
+<------------------ 61 -----------------> 
+worker0:
+	new status: 9
+worker1:
+	new status: 13
+worker2:
+	new status: 14
+worker3:
+	new status: 18
+worker4:
+	new work: None
+<------------------ 62 -----------------> 
+worker0:
+	new status: 8
+worker1:
+	new status: 12
+worker2:
+	new status: 13
+worker3:
+	new status: 17
+worker4:
+	new work: None
+<------------------ 63 -----------------> 
+worker0:
+	new status: 7
+worker1:
+	new status: 11
+worker2:
+	new status: 12
+worker3:
+	new status: 16
+worker4:
+	new work: None
+<------------------ 64 -----------------> 
+worker0:
+	new status: 6
+worker1:
+	new status: 10
+worker2:
+	new status: 11
+worker3:
+	new status: 15
+worker4:
+	new work: None
+<------------------ 65 -----------------> 
+worker0:
+	new status: 5
+worker1:
+	new status: 9
+worker2:
+	new status: 10
+worker3:
+	new status: 14
+worker4:
+	new work: None
+<------------------ 66 -----------------> 
+worker0:
+	new status: 4
+worker1:
+	new status: 8
+worker2:
+	new status: 9
+worker3:
+	new status: 13
+worker4:
+	new work: None
+<------------------ 67 -----------------> 
+worker0:
+	new status: 3
+worker1:
+	new status: 7
+worker2:
+	new status: 8
+worker3:
+	new status: 12
+worker4:
+	new work: None
+<------------------ 68 -----------------> 
+worker0:
+	new status: 2
+worker1:
+	new status: 6
+worker2:
+	new status: 7
+worker3:
+	new status: 11
+worker4:
+	new work: None
+<------------------ 69 -----------------> 
+worker0:
+	new status: 1
+worker1:
+	new status: 5
+worker2:
+	new status: 6
+worker3:
+	new status: 10
+worker4:
+	new work: None
+<------------------ 70 -----------------> 
+worker0:
+	new status: 0
+	worked on: J
+	new work: None
+worker1:
+	new status: 4
+worker2:
+	new status: 5
+worker3:
+	new status: 9
+worker4:
+	new work: None
+<------------------ 71 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 3
+worker2:
+	new status: 4
+worker3:
+	new status: 8
+worker4:
+	new work: None
+<------------------ 72 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 2
+worker2:
+	new status: 3
+worker3:
+	new status: 7
+worker4:
+	new work: None
+<------------------ 73 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 1
+worker2:
+	new status: 2
+worker3:
+	new status: 6
+worker4:
+	new work: None
+<------------------ 74 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 0
+	worked on: N
+	new work: None
+worker2:
+	new status: 1
+worker3:
+	new status: 5
+worker4:
+	new work: None
+<------------------ 75 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new work: None
+worker2:
+	new status: 0
+	worked on: O
+	new work: I
+	new status: 69
+worker3:
+	new status: 4
+worker4:
+	new work: K
+	new status: 71
+<------------------ 76 -----------------> 
+worker0:
+	new work: Y
+	new status: 85
+worker1:
+	new work: None
+worker2:
+	new status: 68
+worker3:
+	new status: 3
+worker4:
+	new status: 70
+<------------------ 77 -----------------> 
+worker0:
+	new status: 84
+worker1:
+	new work: None
+worker2:
+	new status: 67
+worker3:
+	new status: 2
+worker4:
+	new status: 69
+<------------------ 78 -----------------> 
+worker0:
+	new status: 83
+worker1:
+	new work: None
+worker2:
+	new status: 66
+worker3:
+	new status: 1
+worker4:
+	new status: 68
+<------------------ 79 -----------------> 
+worker0:
+	new status: 82
+worker1:
+	new work: None
+worker2:
+	new status: 65
+worker3:
+	new status: 0
+	worked on: S
+	new work: None
+worker4:
+	new status: 67
+<------------------ 80 -----------------> 
+worker0:
+	new status: 81
+worker1:
+	new work: None
+worker2:
+	new status: 64
+worker3:
+	new work: None
+worker4:
+	new status: 66
+<------------------ 81 -----------------> 
+worker0:
+	new status: 80
+worker1:
+	new work: None
+worker2:
+	new status: 63
+worker3:
+	new work: None
+worker4:
+	new status: 65
+<------------------ 82 -----------------> 
+worker0:
+	new status: 79
+worker1:
+	new work: None
+worker2:
+	new status: 62
+worker3:
+	new work: None
+worker4:
+	new status: 64
+<------------------ 83 -----------------> 
+worker0:
+	new status: 78
+worker1:
+	new work: None
+worker2:
+	new status: 61
+worker3:
+	new work: None
+worker4:
+	new status: 63
+<------------------ 84 -----------------> 
+worker0:
+	new status: 77
+worker1:
+	new work: None
+worker2:
+	new status: 60
+worker3:
+	new work: None
+worker4:
+	new status: 62
+<------------------ 85 -----------------> 
+worker0:
+	new status: 76
+worker1:
+	new work: None
+worker2:
+	new status: 59
+worker3:
+	new work: None
+worker4:
+	new status: 61
+<------------------ 86 -----------------> 
+worker0:
+	new status: 75
+worker1:
+	new work: None
+worker2:
+	new status: 58
+worker3:
+	new work: None
+worker4:
+	new status: 60
+<------------------ 87 -----------------> 
+worker0:
+	new status: 74
+worker1:
+	new work: None
+worker2:
+	new status: 57
+worker3:
+	new work: None
+worker4:
+	new status: 59
+<------------------ 88 -----------------> 
+worker0:
+	new status: 73
+worker1:
+	new work: None
+worker2:
+	new status: 56
+worker3:
+	new work: None
+worker4:
+	new status: 58
+<------------------ 89 -----------------> 
+worker0:
+	new status: 72
+worker1:
+	new work: None
+worker2:
+	new status: 55
+worker3:
+	new work: None
+worker4:
+	new status: 57
+<------------------ 90 -----------------> 
+worker0:
+	new status: 71
+worker1:
+	new work: None
+worker2:
+	new status: 54
+worker3:
+	new work: None
+worker4:
+	new status: 56
+<------------------ 91 -----------------> 
+worker0:
+	new status: 70
+worker1:
+	new work: None
+worker2:
+	new status: 53
+worker3:
+	new work: None
+worker4:
+	new status: 55
+<------------------ 92 -----------------> 
+worker0:
+	new status: 69
+worker1:
+	new work: None
+worker2:
+	new status: 52
+worker3:
+	new work: None
+worker4:
+	new status: 54
+<------------------ 93 -----------------> 
+worker0:
+	new status: 68
+worker1:
+	new work: None
+worker2:
+	new status: 51
+worker3:
+	new work: None
+worker4:
+	new status: 53
+<------------------ 94 -----------------> 
+worker0:
+	new status: 67
+worker1:
+	new work: None
+worker2:
+	new status: 50
+worker3:
+	new work: None
+worker4:
+	new status: 52
+<------------------ 95 -----------------> 
+worker0:
+	new status: 66
+worker1:
+	new work: None
+worker2:
+	new status: 49
+worker3:
+	new work: None
+worker4:
+	new status: 51
+<------------------ 96 -----------------> 
+worker0:
+	new status: 65
+worker1:
+	new work: None
+worker2:
+	new status: 48
+worker3:
+	new work: None
+worker4:
+	new status: 50
+<------------------ 97 -----------------> 
+worker0:
+	new status: 64
+worker1:
+	new work: None
+worker2:
+	new status: 47
+worker3:
+	new work: None
+worker4:
+	new status: 49
+<------------------ 98 -----------------> 
+worker0:
+	new status: 63
+worker1:
+	new work: None
+worker2:
+	new status: 46
+worker3:
+	new work: None
+worker4:
+	new status: 48
+<------------------ 99 -----------------> 
+worker0:
+	new status: 62
+worker1:
+	new work: None
+worker2:
+	new status: 45
+worker3:
+	new work: None
+worker4:
+	new status: 47
+<------------------ 100 -----------------> 
+worker0:
+	new status: 61
+worker1:
+	new work: None
+worker2:
+	new status: 44
+worker3:
+	new work: None
+worker4:
+	new status: 46
+<------------------ 101 -----------------> 
+worker0:
+	new status: 60
+worker1:
+	new work: None
+worker2:
+	new status: 43
+worker3:
+	new work: None
+worker4:
+	new status: 45
+<------------------ 102 -----------------> 
+worker0:
+	new status: 59
+worker1:
+	new work: None
+worker2:
+	new status: 42
+worker3:
+	new work: None
+worker4:
+	new status: 44
+<------------------ 103 -----------------> 
+worker0:
+	new status: 58
+worker1:
+	new work: None
+worker2:
+	new status: 41
+worker3:
+	new work: None
+worker4:
+	new status: 43
+<------------------ 104 -----------------> 
+worker0:
+	new status: 57
+worker1:
+	new work: None
+worker2:
+	new status: 40
+worker3:
+	new work: None
+worker4:
+	new status: 42
+<------------------ 105 -----------------> 
+worker0:
+	new status: 56
+worker1:
+	new work: None
+worker2:
+	new status: 39
+worker3:
+	new work: None
+worker4:
+	new status: 41
+<------------------ 106 -----------------> 
+worker0:
+	new status: 55
+worker1:
+	new work: None
+worker2:
+	new status: 38
+worker3:
+	new work: None
+worker4:
+	new status: 40
+<------------------ 107 -----------------> 
+worker0:
+	new status: 54
+worker1:
+	new work: None
+worker2:
+	new status: 37
+worker3:
+	new work: None
+worker4:
+	new status: 39
+<------------------ 108 -----------------> 
+worker0:
+	new status: 53
+worker1:
+	new work: None
+worker2:
+	new status: 36
+worker3:
+	new work: None
+worker4:
+	new status: 38
+<------------------ 109 -----------------> 
+worker0:
+	new status: 52
+worker1:
+	new work: None
+worker2:
+	new status: 35
+worker3:
+	new work: None
+worker4:
+	new status: 37
+<------------------ 110 -----------------> 
+worker0:
+	new status: 51
+worker1:
+	new work: None
+worker2:
+	new status: 34
+worker3:
+	new work: None
+worker4:
+	new status: 36
+<------------------ 111 -----------------> 
+worker0:
+	new status: 50
+worker1:
+	new work: None
+worker2:
+	new status: 33
+worker3:
+	new work: None
+worker4:
+	new status: 35
+<------------------ 112 -----------------> 
+worker0:
+	new status: 49
+worker1:
+	new work: None
+worker2:
+	new status: 32
+worker3:
+	new work: None
+worker4:
+	new status: 34
+<------------------ 113 -----------------> 
+worker0:
+	new status: 48
+worker1:
+	new work: None
+worker2:
+	new status: 31
+worker3:
+	new work: None
+worker4:
+	new status: 33
+<------------------ 114 -----------------> 
+worker0:
+	new status: 47
+worker1:
+	new work: None
+worker2:
+	new status: 30
+worker3:
+	new work: None
+worker4:
+	new status: 32
+<------------------ 115 -----------------> 
+worker0:
+	new status: 46
+worker1:
+	new work: None
+worker2:
+	new status: 29
+worker3:
+	new work: None
+worker4:
+	new status: 31
+<------------------ 116 -----------------> 
+worker0:
+	new status: 45
+worker1:
+	new work: None
+worker2:
+	new status: 28
+worker3:
+	new work: None
+worker4:
+	new status: 30
+<------------------ 117 -----------------> 
+worker0:
+	new status: 44
+worker1:
+	new work: None
+worker2:
+	new status: 27
+worker3:
+	new work: None
+worker4:
+	new status: 29
+<------------------ 118 -----------------> 
+worker0:
+	new status: 43
+worker1:
+	new work: None
+worker2:
+	new status: 26
+worker3:
+	new work: None
+worker4:
+	new status: 28
+<------------------ 119 -----------------> 
+worker0:
+	new status: 42
+worker1:
+	new work: None
+worker2:
+	new status: 25
+worker3:
+	new work: None
+worker4:
+	new status: 27
+<------------------ 120 -----------------> 
+worker0:
+	new status: 41
+worker1:
+	new work: None
+worker2:
+	new status: 24
+worker3:
+	new work: None
+worker4:
+	new status: 26
+<------------------ 121 -----------------> 
+worker0:
+	new status: 40
+worker1:
+	new work: None
+worker2:
+	new status: 23
+worker3:
+	new work: None
+worker4:
+	new status: 25
+<------------------ 122 -----------------> 
+worker0:
+	new status: 39
+worker1:
+	new work: None
+worker2:
+	new status: 22
+worker3:
+	new work: None
+worker4:
+	new status: 24
+<------------------ 123 -----------------> 
+worker0:
+	new status: 38
+worker1:
+	new work: None
+worker2:
+	new status: 21
+worker3:
+	new work: None
+worker4:
+	new status: 23
+<------------------ 124 -----------------> 
+worker0:
+	new status: 37
+worker1:
+	new work: None
+worker2:
+	new status: 20
+worker3:
+	new work: None
+worker4:
+	new status: 22
+<------------------ 125 -----------------> 
+worker0:
+	new status: 36
+worker1:
+	new work: None
+worker2:
+	new status: 19
+worker3:
+	new work: None
+worker4:
+	new status: 21
+<------------------ 126 -----------------> 
+worker0:
+	new status: 35
+worker1:
+	new work: None
+worker2:
+	new status: 18
+worker3:
+	new work: None
+worker4:
+	new status: 20
+<------------------ 127 -----------------> 
+worker0:
+	new status: 34
+worker1:
+	new work: None
+worker2:
+	new status: 17
+worker3:
+	new work: None
+worker4:
+	new status: 19
+<------------------ 128 -----------------> 
+worker0:
+	new status: 33
+worker1:
+	new work: None
+worker2:
+	new status: 16
+worker3:
+	new work: None
+worker4:
+	new status: 18
+<------------------ 129 -----------------> 
+worker0:
+	new status: 32
+worker1:
+	new work: None
+worker2:
+	new status: 15
+worker3:
+	new work: None
+worker4:
+	new status: 17
+<------------------ 130 -----------------> 
+worker0:
+	new status: 31
+worker1:
+	new work: None
+worker2:
+	new status: 14
+worker3:
+	new work: None
+worker4:
+	new status: 16
+<------------------ 131 -----------------> 
+worker0:
+	new status: 30
+worker1:
+	new work: None
+worker2:
+	new status: 13
+worker3:
+	new work: None
+worker4:
+	new status: 15
+<------------------ 132 -----------------> 
+worker0:
+	new status: 29
+worker1:
+	new work: None
+worker2:
+	new status: 12
+worker3:
+	new work: None
+worker4:
+	new status: 14
+<------------------ 133 -----------------> 
+worker0:
+	new status: 28
+worker1:
+	new work: None
+worker2:
+	new status: 11
+worker3:
+	new work: None
+worker4:
+	new status: 13
+<------------------ 134 -----------------> 
+worker0:
+	new status: 27
+worker1:
+	new work: None
+worker2:
+	new status: 10
+worker3:
+	new work: None
+worker4:
+	new status: 12
+<------------------ 135 -----------------> 
+worker0:
+	new status: 26
+worker1:
+	new work: None
+worker2:
+	new status: 9
+worker3:
+	new work: None
+worker4:
+	new status: 11
+<------------------ 136 -----------------> 
+worker0:
+	new status: 25
+worker1:
+	new work: None
+worker2:
+	new status: 8
+worker3:
+	new work: None
+worker4:
+	new status: 10
+<------------------ 137 -----------------> 
+worker0:
+	new status: 24
+worker1:
+	new work: None
+worker2:
+	new status: 7
+worker3:
+	new work: None
+worker4:
+	new status: 9
+<------------------ 138 -----------------> 
+worker0:
+	new status: 23
+worker1:
+	new work: None
+worker2:
+	new status: 6
+worker3:
+	new work: None
+worker4:
+	new status: 8
+<------------------ 139 -----------------> 
+worker0:
+	new status: 22
+worker1:
+	new work: None
+worker2:
+	new status: 5
+worker3:
+	new work: None
+worker4:
+	new status: 7
+<------------------ 140 -----------------> 
+worker0:
+	new status: 21
+worker1:
+	new work: None
+worker2:
+	new status: 4
+worker3:
+	new work: None
+worker4:
+	new status: 6
+<------------------ 141 -----------------> 
+worker0:
+	new status: 20
+worker1:
+	new work: None
+worker2:
+	new status: 3
+worker3:
+	new work: None
+worker4:
+	new status: 5
+<------------------ 142 -----------------> 
+worker0:
+	new status: 19
+worker1:
+	new work: None
+worker2:
+	new status: 2
+worker3:
+	new work: None
+worker4:
+	new status: 4
+<------------------ 143 -----------------> 
+worker0:
+	new status: 18
+worker1:
+	new work: None
+worker2:
+	new status: 1
+worker3:
+	new work: None
+worker4:
+	new status: 3
+<------------------ 144 -----------------> 
+worker0:
+	new status: 17
+worker1:
+	new work: None
+worker2:
+	new status: 0
+	worked on: I
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 2
+<------------------ 145 -----------------> 
+worker0:
+	new status: 16
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 1
+<------------------ 146 -----------------> 
+worker0:
+	new status: 15
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 0
+	worked on: K
+	new work: None
+<------------------ 147 -----------------> 
+worker0:
+	new status: 14
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 148 -----------------> 
+worker0:
+	new status: 13
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 149 -----------------> 
+worker0:
+	new status: 12
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 150 -----------------> 
+worker0:
+	new status: 11
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 151 -----------------> 
+worker0:
+	new status: 10
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 152 -----------------> 
+worker0:
+	new status: 9
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 153 -----------------> 
+worker0:
+	new status: 8
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 154 -----------------> 
+worker0:
+	new status: 7
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 155 -----------------> 
+worker0:
+	new status: 6
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 156 -----------------> 
+worker0:
+	new status: 5
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 157 -----------------> 
+worker0:
+	new status: 4
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 158 -----------------> 
+worker0:
+	new status: 3
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 159 -----------------> 
+worker0:
+	new status: 2
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 160 -----------------> 
+worker0:
+	new status: 1
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 161 -----------------> 
+worker0:
+	new status: 0
+	worked on: Y
+	new work: A
+	new status: 61
+worker1:
+	new work: Q
+	new status: 77
+worker2:
+	new work: U
+	new status: 81
+worker3:
+	new work: W
+	new status: 83
+worker4:
+	new work: None
+<------------------ 162 -----------------> 
+worker0:
+	new status: 60
+worker1:
+	new status: 76
+worker2:
+	new status: 80
+worker3:
+	new status: 82
+worker4:
+	new work: None
+<------------------ 163 -----------------> 
+worker0:
+	new status: 59
+worker1:
+	new status: 75
+worker2:
+	new status: 79
+worker3:
+	new status: 81
+worker4:
+	new work: None
+<------------------ 164 -----------------> 
+worker0:
+	new status: 58
+worker1:
+	new status: 74
+worker2:
+	new status: 78
+worker3:
+	new status: 80
+worker4:
+	new work: None
+<------------------ 165 -----------------> 
+worker0:
+	new status: 57
+worker1:
+	new status: 73
+worker2:
+	new status: 77
+worker3:
+	new status: 79
+worker4:
+	new work: None
+<------------------ 166 -----------------> 
+worker0:
+	new status: 56
+worker1:
+	new status: 72
+worker2:
+	new status: 76
+worker3:
+	new status: 78
+worker4:
+	new work: None
+<------------------ 167 -----------------> 
+worker0:
+	new status: 55
+worker1:
+	new status: 71
+worker2:
+	new status: 75
+worker3:
+	new status: 77
+worker4:
+	new work: None
+<------------------ 168 -----------------> 
+worker0:
+	new status: 54
+worker1:
+	new status: 70
+worker2:
+	new status: 74
+worker3:
+	new status: 76
+worker4:
+	new work: None
+<------------------ 169 -----------------> 
+worker0:
+	new status: 53
+worker1:
+	new status: 69
+worker2:
+	new status: 73
+worker3:
+	new status: 75
+worker4:
+	new work: None
+<------------------ 170 -----------------> 
+worker0:
+	new status: 52
+worker1:
+	new status: 68
+worker2:
+	new status: 72
+worker3:
+	new status: 74
+worker4:
+	new work: None
+<------------------ 171 -----------------> 
+worker0:
+	new status: 51
+worker1:
+	new status: 67
+worker2:
+	new status: 71
+worker3:
+	new status: 73
+worker4:
+	new work: None
+<------------------ 172 -----------------> 
+worker0:
+	new status: 50
+worker1:
+	new status: 66
+worker2:
+	new status: 70
+worker3:
+	new status: 72
+worker4:
+	new work: None
+<------------------ 173 -----------------> 
+worker0:
+	new status: 49
+worker1:
+	new status: 65
+worker2:
+	new status: 69
+worker3:
+	new status: 71
+worker4:
+	new work: None
+<------------------ 174 -----------------> 
+worker0:
+	new status: 48
+worker1:
+	new status: 64
+worker2:
+	new status: 68
+worker3:
+	new status: 70
+worker4:
+	new work: None
+<------------------ 175 -----------------> 
+worker0:
+	new status: 47
+worker1:
+	new status: 63
+worker2:
+	new status: 67
+worker3:
+	new status: 69
+worker4:
+	new work: None
+<------------------ 176 -----------------> 
+worker0:
+	new status: 46
+worker1:
+	new status: 62
+worker2:
+	new status: 66
+worker3:
+	new status: 68
+worker4:
+	new work: None
+<------------------ 177 -----------------> 
+worker0:
+	new status: 45
+worker1:
+	new status: 61
+worker2:
+	new status: 65
+worker3:
+	new status: 67
+worker4:
+	new work: None
+<------------------ 178 -----------------> 
+worker0:
+	new status: 44
+worker1:
+	new status: 60
+worker2:
+	new status: 64
+worker3:
+	new status: 66
+worker4:
+	new work: None
+<------------------ 179 -----------------> 
+worker0:
+	new status: 43
+worker1:
+	new status: 59
+worker2:
+	new status: 63
+worker3:
+	new status: 65
+worker4:
+	new work: None
+<------------------ 180 -----------------> 
+worker0:
+	new status: 42
+worker1:
+	new status: 58
+worker2:
+	new status: 62
+worker3:
+	new status: 64
+worker4:
+	new work: None
+<------------------ 181 -----------------> 
+worker0:
+	new status: 41
+worker1:
+	new status: 57
+worker2:
+	new status: 61
+worker3:
+	new status: 63
+worker4:
+	new work: None
+<------------------ 182 -----------------> 
+worker0:
+	new status: 40
+worker1:
+	new status: 56
+worker2:
+	new status: 60
+worker3:
+	new status: 62
+worker4:
+	new work: None
+<------------------ 183 -----------------> 
+worker0:
+	new status: 39
+worker1:
+	new status: 55
+worker2:
+	new status: 59
+worker3:
+	new status: 61
+worker4:
+	new work: None
+<------------------ 184 -----------------> 
+worker0:
+	new status: 38
+worker1:
+	new status: 54
+worker2:
+	new status: 58
+worker3:
+	new status: 60
+worker4:
+	new work: None
+<------------------ 185 -----------------> 
+worker0:
+	new status: 37
+worker1:
+	new status: 53
+worker2:
+	new status: 57
+worker3:
+	new status: 59
+worker4:
+	new work: None
+<------------------ 186 -----------------> 
+worker0:
+	new status: 36
+worker1:
+	new status: 52
+worker2:
+	new status: 56
+worker3:
+	new status: 58
+worker4:
+	new work: None
+<------------------ 187 -----------------> 
+worker0:
+	new status: 35
+worker1:
+	new status: 51
+worker2:
+	new status: 55
+worker3:
+	new status: 57
+worker4:
+	new work: None
+<------------------ 188 -----------------> 
+worker0:
+	new status: 34
+worker1:
+	new status: 50
+worker2:
+	new status: 54
+worker3:
+	new status: 56
+worker4:
+	new work: None
+<------------------ 189 -----------------> 
+worker0:
+	new status: 33
+worker1:
+	new status: 49
+worker2:
+	new status: 53
+worker3:
+	new status: 55
+worker4:
+	new work: None
+<------------------ 190 -----------------> 
+worker0:
+	new status: 32
+worker1:
+	new status: 48
+worker2:
+	new status: 52
+worker3:
+	new status: 54
+worker4:
+	new work: None
+<------------------ 191 -----------------> 
+worker0:
+	new status: 31
+worker1:
+	new status: 47
+worker2:
+	new status: 51
+worker3:
+	new status: 53
+worker4:
+	new work: None
+<------------------ 192 -----------------> 
+worker0:
+	new status: 30
+worker1:
+	new status: 46
+worker2:
+	new status: 50
+worker3:
+	new status: 52
+worker4:
+	new work: None
+<------------------ 193 -----------------> 
+worker0:
+	new status: 29
+worker1:
+	new status: 45
+worker2:
+	new status: 49
+worker3:
+	new status: 51
+worker4:
+	new work: None
+<------------------ 194 -----------------> 
+worker0:
+	new status: 28
+worker1:
+	new status: 44
+worker2:
+	new status: 48
+worker3:
+	new status: 50
+worker4:
+	new work: None
+<------------------ 195 -----------------> 
+worker0:
+	new status: 27
+worker1:
+	new status: 43
+worker2:
+	new status: 47
+worker3:
+	new status: 49
+worker4:
+	new work: None
+<------------------ 196 -----------------> 
+worker0:
+	new status: 26
+worker1:
+	new status: 42
+worker2:
+	new status: 46
+worker3:
+	new status: 48
+worker4:
+	new work: None
+<------------------ 197 -----------------> 
+worker0:
+	new status: 25
+worker1:
+	new status: 41
+worker2:
+	new status: 45
+worker3:
+	new status: 47
+worker4:
+	new work: None
+<------------------ 198 -----------------> 
+worker0:
+	new status: 24
+worker1:
+	new status: 40
+worker2:
+	new status: 44
+worker3:
+	new status: 46
+worker4:
+	new work: None
+<------------------ 199 -----------------> 
+worker0:
+	new status: 23
+worker1:
+	new status: 39
+worker2:
+	new status: 43
+worker3:
+	new status: 45
+worker4:
+	new work: None
+<------------------ 200 -----------------> 
+worker0:
+	new status: 22
+worker1:
+	new status: 38
+worker2:
+	new status: 42
+worker3:
+	new status: 44
+worker4:
+	new work: None
+<------------------ 201 -----------------> 
+worker0:
+	new status: 21
+worker1:
+	new status: 37
+worker2:
+	new status: 41
+worker3:
+	new status: 43
+worker4:
+	new work: None
+<------------------ 202 -----------------> 
+worker0:
+	new status: 20
+worker1:
+	new status: 36
+worker2:
+	new status: 40
+worker3:
+	new status: 42
+worker4:
+	new work: None
+<------------------ 203 -----------------> 
+worker0:
+	new status: 19
+worker1:
+	new status: 35
+worker2:
+	new status: 39
+worker3:
+	new status: 41
+worker4:
+	new work: None
+<------------------ 204 -----------------> 
+worker0:
+	new status: 18
+worker1:
+	new status: 34
+worker2:
+	new status: 38
+worker3:
+	new status: 40
+worker4:
+	new work: None
+<------------------ 205 -----------------> 
+worker0:
+	new status: 17
+worker1:
+	new status: 33
+worker2:
+	new status: 37
+worker3:
+	new status: 39
+worker4:
+	new work: None
+<------------------ 206 -----------------> 
+worker0:
+	new status: 16
+worker1:
+	new status: 32
+worker2:
+	new status: 36
+worker3:
+	new status: 38
+worker4:
+	new work: None
+<------------------ 207 -----------------> 
+worker0:
+	new status: 15
+worker1:
+	new status: 31
+worker2:
+	new status: 35
+worker3:
+	new status: 37
+worker4:
+	new work: None
+<------------------ 208 -----------------> 
+worker0:
+	new status: 14
+worker1:
+	new status: 30
+worker2:
+	new status: 34
+worker3:
+	new status: 36
+worker4:
+	new work: None
+<------------------ 209 -----------------> 
+worker0:
+	new status: 13
+worker1:
+	new status: 29
+worker2:
+	new status: 33
+worker3:
+	new status: 35
+worker4:
+	new work: None
+<------------------ 210 -----------------> 
+worker0:
+	new status: 12
+worker1:
+	new status: 28
+worker2:
+	new status: 32
+worker3:
+	new status: 34
+worker4:
+	new work: None
+<------------------ 211 -----------------> 
+worker0:
+	new status: 11
+worker1:
+	new status: 27
+worker2:
+	new status: 31
+worker3:
+	new status: 33
+worker4:
+	new work: None
+<------------------ 212 -----------------> 
+worker0:
+	new status: 10
+worker1:
+	new status: 26
+worker2:
+	new status: 30
+worker3:
+	new status: 32
+worker4:
+	new work: None
+<------------------ 213 -----------------> 
+worker0:
+	new status: 9
+worker1:
+	new status: 25
+worker2:
+	new status: 29
+worker3:
+	new status: 31
+worker4:
+	new work: None
+<------------------ 214 -----------------> 
+worker0:
+	new status: 8
+worker1:
+	new status: 24
+worker2:
+	new status: 28
+worker3:
+	new status: 30
+worker4:
+	new work: None
+<------------------ 215 -----------------> 
+worker0:
+	new status: 7
+worker1:
+	new status: 23
+worker2:
+	new status: 27
+worker3:
+	new status: 29
+worker4:
+	new work: None
+<------------------ 216 -----------------> 
+worker0:
+	new status: 6
+worker1:
+	new status: 22
+worker2:
+	new status: 26
+worker3:
+	new status: 28
+worker4:
+	new work: None
+<------------------ 217 -----------------> 
+worker0:
+	new status: 5
+worker1:
+	new status: 21
+worker2:
+	new status: 25
+worker3:
+	new status: 27
+worker4:
+	new work: None
+<------------------ 218 -----------------> 
+worker0:
+	new status: 4
+worker1:
+	new status: 20
+worker2:
+	new status: 24
+worker3:
+	new status: 26
+worker4:
+	new work: None
+<------------------ 219 -----------------> 
+worker0:
+	new status: 3
+worker1:
+	new status: 19
+worker2:
+	new status: 23
+worker3:
+	new status: 25
+worker4:
+	new work: None
+<------------------ 220 -----------------> 
+worker0:
+	new status: 2
+worker1:
+	new status: 18
+worker2:
+	new status: 22
+worker3:
+	new status: 24
+worker4:
+	new work: None
+<------------------ 221 -----------------> 
+worker0:
+	new status: 1
+worker1:
+	new status: 17
+worker2:
+	new status: 21
+worker3:
+	new status: 23
+worker4:
+	new work: None
+<------------------ 222 -----------------> 
+worker0:
+	new status: 0
+	worked on: A
+	new work: B
+	new status: 62
+worker1:
+	new status: 16
+worker2:
+	new status: 20
+worker3:
+	new status: 22
+worker4:
+	new work: R
+	new status: 78
+<------------------ 223 -----------------> 
+worker0:
+	new status: 61
+worker1:
+	new status: 15
+worker2:
+	new status: 19
+worker3:
+	new status: 21
+worker4:
+	new status: 77
+<------------------ 224 -----------------> 
+worker0:
+	new status: 60
+worker1:
+	new status: 14
+worker2:
+	new status: 18
+worker3:
+	new status: 20
+worker4:
+	new status: 76
+<------------------ 225 -----------------> 
+worker0:
+	new status: 59
+worker1:
+	new status: 13
+worker2:
+	new status: 17
+worker3:
+	new status: 19
+worker4:
+	new status: 75
+<------------------ 226 -----------------> 
+worker0:
+	new status: 58
+worker1:
+	new status: 12
+worker2:
+	new status: 16
+worker3:
+	new status: 18
+worker4:
+	new status: 74
+<------------------ 227 -----------------> 
+worker0:
+	new status: 57
+worker1:
+	new status: 11
+worker2:
+	new status: 15
+worker3:
+	new status: 17
+worker4:
+	new status: 73
+<------------------ 228 -----------------> 
+worker0:
+	new status: 56
+worker1:
+	new status: 10
+worker2:
+	new status: 14
+worker3:
+	new status: 16
+worker4:
+	new status: 72
+<------------------ 229 -----------------> 
+worker0:
+	new status: 55
+worker1:
+	new status: 9
+worker2:
+	new status: 13
+worker3:
+	new status: 15
+worker4:
+	new status: 71
+<------------------ 230 -----------------> 
+worker0:
+	new status: 54
+worker1:
+	new status: 8
+worker2:
+	new status: 12
+worker3:
+	new status: 14
+worker4:
+	new status: 70
+<------------------ 231 -----------------> 
+worker0:
+	new status: 53
+worker1:
+	new status: 7
+worker2:
+	new status: 11
+worker3:
+	new status: 13
+worker4:
+	new status: 69
+<------------------ 232 -----------------> 
+worker0:
+	new status: 52
+worker1:
+	new status: 6
+worker2:
+	new status: 10
+worker3:
+	new status: 12
+worker4:
+	new status: 68
+<------------------ 233 -----------------> 
+worker0:
+	new status: 51
+worker1:
+	new status: 5
+worker2:
+	new status: 9
+worker3:
+	new status: 11
+worker4:
+	new status: 67
+<------------------ 234 -----------------> 
+worker0:
+	new status: 50
+worker1:
+	new status: 4
+worker2:
+	new status: 8
+worker3:
+	new status: 10
+worker4:
+	new status: 66
+<------------------ 235 -----------------> 
+worker0:
+	new status: 49
+worker1:
+	new status: 3
+worker2:
+	new status: 7
+worker3:
+	new status: 9
+worker4:
+	new status: 65
+<------------------ 236 -----------------> 
+worker0:
+	new status: 48
+worker1:
+	new status: 2
+worker2:
+	new status: 6
+worker3:
+	new status: 8
+worker4:
+	new status: 64
+<------------------ 237 -----------------> 
+worker0:
+	new status: 47
+worker1:
+	new status: 1
+worker2:
+	new status: 5
+worker3:
+	new status: 7
+worker4:
+	new status: 63
+<------------------ 238 -----------------> 
+worker0:
+	new status: 46
+worker1:
+	new status: 0
+	worked on: Q
+	new work: None
+worker2:
+	new status: 4
+worker3:
+	new status: 6
+worker4:
+	new status: 62
+<------------------ 239 -----------------> 
+worker0:
+	new status: 45
+worker1:
+	new work: None
+worker2:
+	new status: 3
+worker3:
+	new status: 5
+worker4:
+	new status: 61
+<------------------ 240 -----------------> 
+worker0:
+	new status: 44
+worker1:
+	new work: None
+worker2:
+	new status: 2
+worker3:
+	new status: 4
+worker4:
+	new status: 60
+<------------------ 241 -----------------> 
+worker0:
+	new status: 43
+worker1:
+	new work: None
+worker2:
+	new status: 1
+worker3:
+	new status: 3
+worker4:
+	new status: 59
+<------------------ 242 -----------------> 
+worker0:
+	new status: 42
+worker1:
+	new work: None
+worker2:
+	new status: 0
+	worked on: U
+	new work: None
+worker3:
+	new status: 2
+worker4:
+	new status: 58
+<------------------ 243 -----------------> 
+worker0:
+	new status: 41
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new status: 1
+worker4:
+	new status: 57
+<------------------ 244 -----------------> 
+worker0:
+	new status: 40
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new status: 0
+	worked on: W
+	new work: None
+worker4:
+	new status: 56
+<------------------ 245 -----------------> 
+worker0:
+	new status: 39
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 55
+<------------------ 246 -----------------> 
+worker0:
+	new status: 38
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 54
+<------------------ 247 -----------------> 
+worker0:
+	new status: 37
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 53
+<------------------ 248 -----------------> 
+worker0:
+	new status: 36
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 52
+<------------------ 249 -----------------> 
+worker0:
+	new status: 35
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 51
+<------------------ 250 -----------------> 
+worker0:
+	new status: 34
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 50
+<------------------ 251 -----------------> 
+worker0:
+	new status: 33
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 49
+<------------------ 252 -----------------> 
+worker0:
+	new status: 32
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 48
+<------------------ 253 -----------------> 
+worker0:
+	new status: 31
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 47
+<------------------ 254 -----------------> 
+worker0:
+	new status: 30
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 46
+<------------------ 255 -----------------> 
+worker0:
+	new status: 29
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 45
+<------------------ 256 -----------------> 
+worker0:
+	new status: 28
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 44
+<------------------ 257 -----------------> 
+worker0:
+	new status: 27
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 43
+<------------------ 258 -----------------> 
+worker0:
+	new status: 26
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 42
+<------------------ 259 -----------------> 
+worker0:
+	new status: 25
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 41
+<------------------ 260 -----------------> 
+worker0:
+	new status: 24
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 40
+<------------------ 261 -----------------> 
+worker0:
+	new status: 23
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 39
+<------------------ 262 -----------------> 
+worker0:
+	new status: 22
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 38
+<------------------ 263 -----------------> 
+worker0:
+	new status: 21
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 37
+<------------------ 264 -----------------> 
+worker0:
+	new status: 20
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 36
+<------------------ 265 -----------------> 
+worker0:
+	new status: 19
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 35
+<------------------ 266 -----------------> 
+worker0:
+	new status: 18
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 34
+<------------------ 267 -----------------> 
+worker0:
+	new status: 17
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 33
+<------------------ 268 -----------------> 
+worker0:
+	new status: 16
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 32
+<------------------ 269 -----------------> 
+worker0:
+	new status: 15
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 31
+<------------------ 270 -----------------> 
+worker0:
+	new status: 14
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 30
+<------------------ 271 -----------------> 
+worker0:
+	new status: 13
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 29
+<------------------ 272 -----------------> 
+worker0:
+	new status: 12
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 28
+<------------------ 273 -----------------> 
+worker0:
+	new status: 11
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 27
+<------------------ 274 -----------------> 
+worker0:
+	new status: 10
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 26
+<------------------ 275 -----------------> 
+worker0:
+	new status: 9
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 25
+<------------------ 276 -----------------> 
+worker0:
+	new status: 8
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 24
+<------------------ 277 -----------------> 
+worker0:
+	new status: 7
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 23
+<------------------ 278 -----------------> 
+worker0:
+	new status: 6
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 22
+<------------------ 279 -----------------> 
+worker0:
+	new status: 5
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 21
+<------------------ 280 -----------------> 
+worker0:
+	new status: 4
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 20
+<------------------ 281 -----------------> 
+worker0:
+	new status: 3
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 19
+<------------------ 282 -----------------> 
+worker0:
+	new status: 2
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 18
+<------------------ 283 -----------------> 
+worker0:
+	new status: 1
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 17
+<------------------ 284 -----------------> 
+worker0:
+	new status: 0
+	worked on: B
+	new work: E
+	new status: 65
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 16
+<------------------ 285 -----------------> 
+worker0:
+	new status: 64
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 15
+<------------------ 286 -----------------> 
+worker0:
+	new status: 63
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 14
+<------------------ 287 -----------------> 
+worker0:
+	new status: 62
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 13
+<------------------ 288 -----------------> 
+worker0:
+	new status: 61
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 12
+<------------------ 289 -----------------> 
+worker0:
+	new status: 60
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 11
+<------------------ 290 -----------------> 
+worker0:
+	new status: 59
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 10
+<------------------ 291 -----------------> 
+worker0:
+	new status: 58
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 9
+<------------------ 292 -----------------> 
+worker0:
+	new status: 57
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 8
+<------------------ 293 -----------------> 
+worker0:
+	new status: 56
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 7
+<------------------ 294 -----------------> 
+worker0:
+	new status: 55
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 6
+<------------------ 295 -----------------> 
+worker0:
+	new status: 54
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 5
+<------------------ 296 -----------------> 
+worker0:
+	new status: 53
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 4
+<------------------ 297 -----------------> 
+worker0:
+	new status: 52
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 3
+<------------------ 298 -----------------> 
+worker0:
+	new status: 51
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 2
+<------------------ 299 -----------------> 
+worker0:
+	new status: 50
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 1
+<------------------ 300 -----------------> 
+worker0:
+	new status: 49
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new status: 0
+	worked on: R
+	new work: None
+<------------------ 301 -----------------> 
+worker0:
+	new status: 48
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 302 -----------------> 
+worker0:
+	new status: 47
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 303 -----------------> 
+worker0:
+	new status: 46
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 304 -----------------> 
+worker0:
+	new status: 45
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 305 -----------------> 
+worker0:
+	new status: 44
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 306 -----------------> 
+worker0:
+	new status: 43
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 307 -----------------> 
+worker0:
+	new status: 42
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 308 -----------------> 
+worker0:
+	new status: 41
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 309 -----------------> 
+worker0:
+	new status: 40
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 310 -----------------> 
+worker0:
+	new status: 39
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 311 -----------------> 
+worker0:
+	new status: 38
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 312 -----------------> 
+worker0:
+	new status: 37
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 313 -----------------> 
+worker0:
+	new status: 36
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 314 -----------------> 
+worker0:
+	new status: 35
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 315 -----------------> 
+worker0:
+	new status: 34
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 316 -----------------> 
+worker0:
+	new status: 33
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 317 -----------------> 
+worker0:
+	new status: 32
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 318 -----------------> 
+worker0:
+	new status: 31
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 319 -----------------> 
+worker0:
+	new status: 30
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 320 -----------------> 
+worker0:
+	new status: 29
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 321 -----------------> 
+worker0:
+	new status: 28
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 322 -----------------> 
+worker0:
+	new status: 27
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 323 -----------------> 
+worker0:
+	new status: 26
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 324 -----------------> 
+worker0:
+	new status: 25
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 325 -----------------> 
+worker0:
+	new status: 24
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 326 -----------------> 
+worker0:
+	new status: 23
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 327 -----------------> 
+worker0:
+	new status: 22
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 328 -----------------> 
+worker0:
+	new status: 21
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 329 -----------------> 
+worker0:
+	new status: 20
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 330 -----------------> 
+worker0:
+	new status: 19
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 331 -----------------> 
+worker0:
+	new status: 18
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 332 -----------------> 
+worker0:
+	new status: 17
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 333 -----------------> 
+worker0:
+	new status: 16
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 334 -----------------> 
+worker0:
+	new status: 15
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 335 -----------------> 
+worker0:
+	new status: 14
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 336 -----------------> 
+worker0:
+	new status: 13
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 337 -----------------> 
+worker0:
+	new status: 12
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 338 -----------------> 
+worker0:
+	new status: 11
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 339 -----------------> 
+worker0:
+	new status: 10
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 340 -----------------> 
+worker0:
+	new status: 9
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 341 -----------------> 
+worker0:
+	new status: 8
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 342 -----------------> 
+worker0:
+	new status: 7
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 343 -----------------> 
+worker0:
+	new status: 6
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 344 -----------------> 
+worker0:
+	new status: 5
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 345 -----------------> 
+worker0:
+	new status: 4
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 346 -----------------> 
+worker0:
+	new status: 3
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 347 -----------------> 
+worker0:
+	new status: 2
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 348 -----------------> 
+worker0:
+	new status: 1
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 349 -----------------> 
+worker0:
+	new status: 0
+	worked on: E
+	new work: V
+	new status: 82
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 350 -----------------> 
+worker0:
+	new status: 81
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 351 -----------------> 
+worker0:
+	new status: 80
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 352 -----------------> 
+worker0:
+	new status: 79
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 353 -----------------> 
+worker0:
+	new status: 78
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 354 -----------------> 
+worker0:
+	new status: 77
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 355 -----------------> 
+worker0:
+	new status: 76
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 356 -----------------> 
+worker0:
+	new status: 75
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 357 -----------------> 
+worker0:
+	new status: 74
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 358 -----------------> 
+worker0:
+	new status: 73
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 359 -----------------> 
+worker0:
+	new status: 72
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 360 -----------------> 
+worker0:
+	new status: 71
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 361 -----------------> 
+worker0:
+	new status: 70
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 362 -----------------> 
+worker0:
+	new status: 69
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 363 -----------------> 
+worker0:
+	new status: 68
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 364 -----------------> 
+worker0:
+	new status: 67
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 365 -----------------> 
+worker0:
+	new status: 66
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 366 -----------------> 
+worker0:
+	new status: 65
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 367 -----------------> 
+worker0:
+	new status: 64
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 368 -----------------> 
+worker0:
+	new status: 63
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 369 -----------------> 
+worker0:
+	new status: 62
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 370 -----------------> 
+worker0:
+	new status: 61
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 371 -----------------> 
+worker0:
+	new status: 60
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 372 -----------------> 
+worker0:
+	new status: 59
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 373 -----------------> 
+worker0:
+	new status: 58
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 374 -----------------> 
+worker0:
+	new status: 57
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 375 -----------------> 
+worker0:
+	new status: 56
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 376 -----------------> 
+worker0:
+	new status: 55
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 377 -----------------> 
+worker0:
+	new status: 54
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 378 -----------------> 
+worker0:
+	new status: 53
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 379 -----------------> 
+worker0:
+	new status: 52
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 380 -----------------> 
+worker0:
+	new status: 51
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 381 -----------------> 
+worker0:
+	new status: 50
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 382 -----------------> 
+worker0:
+	new status: 49
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 383 -----------------> 
+worker0:
+	new status: 48
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 384 -----------------> 
+worker0:
+	new status: 47
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 385 -----------------> 
+worker0:
+	new status: 46
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 386 -----------------> 
+worker0:
+	new status: 45
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 387 -----------------> 
+worker0:
+	new status: 44
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 388 -----------------> 
+worker0:
+	new status: 43
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 389 -----------------> 
+worker0:
+	new status: 42
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 390 -----------------> 
+worker0:
+	new status: 41
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 391 -----------------> 
+worker0:
+	new status: 40
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 392 -----------------> 
+worker0:
+	new status: 39
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 393 -----------------> 
+worker0:
+	new status: 38
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 394 -----------------> 
+worker0:
+	new status: 37
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 395 -----------------> 
+worker0:
+	new status: 36
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 396 -----------------> 
+worker0:
+	new status: 35
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 397 -----------------> 
+worker0:
+	new status: 34
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 398 -----------------> 
+worker0:
+	new status: 33
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 399 -----------------> 
+worker0:
+	new status: 32
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 400 -----------------> 
+worker0:
+	new status: 31
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 401 -----------------> 
+worker0:
+	new status: 30
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 402 -----------------> 
+worker0:
+	new status: 29
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 403 -----------------> 
+worker0:
+	new status: 28
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 404 -----------------> 
+worker0:
+	new status: 27
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 405 -----------------> 
+worker0:
+	new status: 26
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 406 -----------------> 
+worker0:
+	new status: 25
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 407 -----------------> 
+worker0:
+	new status: 24
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 408 -----------------> 
+worker0:
+	new status: 23
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 409 -----------------> 
+worker0:
+	new status: 22
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 410 -----------------> 
+worker0:
+	new status: 21
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 411 -----------------> 
+worker0:
+	new status: 20
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 412 -----------------> 
+worker0:
+	new status: 19
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 413 -----------------> 
+worker0:
+	new status: 18
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 414 -----------------> 
+worker0:
+	new status: 17
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 415 -----------------> 
+worker0:
+	new status: 16
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 416 -----------------> 
+worker0:
+	new status: 15
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 417 -----------------> 
+worker0:
+	new status: 14
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 418 -----------------> 
+worker0:
+	new status: 13
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 419 -----------------> 
+worker0:
+	new status: 12
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 420 -----------------> 
+worker0:
+	new status: 11
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 421 -----------------> 
+worker0:
+	new status: 10
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 422 -----------------> 
+worker0:
+	new status: 9
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 423 -----------------> 
+worker0:
+	new status: 8
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 424 -----------------> 
+worker0:
+	new status: 7
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 425 -----------------> 
+worker0:
+	new status: 6
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 426 -----------------> 
+worker0:
+	new status: 5
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 427 -----------------> 
+worker0:
+	new status: 4
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 428 -----------------> 
+worker0:
+	new status: 3
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 429 -----------------> 
+worker0:
+	new status: 2
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 430 -----------------> 
+worker0:
+	new status: 1
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 431 -----------------> 
+worker0:
+	new status: 0
+	worked on: V
+	new work: X
+	new status: 84
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 432 -----------------> 
+worker0:
+	new status: 83
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 433 -----------------> 
+worker0:
+	new status: 82
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 434 -----------------> 
+worker0:
+	new status: 81
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 435 -----------------> 
+worker0:
+	new status: 80
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 436 -----------------> 
+worker0:
+	new status: 79
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 437 -----------------> 
+worker0:
+	new status: 78
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 438 -----------------> 
+worker0:
+	new status: 77
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 439 -----------------> 
+worker0:
+	new status: 76
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 440 -----------------> 
+worker0:
+	new status: 75
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 441 -----------------> 
+worker0:
+	new status: 74
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 442 -----------------> 
+worker0:
+	new status: 73
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 443 -----------------> 
+worker0:
+	new status: 72
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 444 -----------------> 
+worker0:
+	new status: 71
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 445 -----------------> 
+worker0:
+	new status: 70
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 446 -----------------> 
+worker0:
+	new status: 69
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 447 -----------------> 
+worker0:
+	new status: 68
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 448 -----------------> 
+worker0:
+	new status: 67
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 449 -----------------> 
+worker0:
+	new status: 66
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 450 -----------------> 
+worker0:
+	new status: 65
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 451 -----------------> 
+worker0:
+	new status: 64
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 452 -----------------> 
+worker0:
+	new status: 63
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 453 -----------------> 
+worker0:
+	new status: 62
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 454 -----------------> 
+worker0:
+	new status: 61
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 455 -----------------> 
+worker0:
+	new status: 60
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 456 -----------------> 
+worker0:
+	new status: 59
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 457 -----------------> 
+worker0:
+	new status: 58
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 458 -----------------> 
+worker0:
+	new status: 57
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 459 -----------------> 
+worker0:
+	new status: 56
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 460 -----------------> 
+worker0:
+	new status: 55
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 461 -----------------> 
+worker0:
+	new status: 54
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 462 -----------------> 
+worker0:
+	new status: 53
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 463 -----------------> 
+worker0:
+	new status: 52
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 464 -----------------> 
+worker0:
+	new status: 51
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 465 -----------------> 
+worker0:
+	new status: 50
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 466 -----------------> 
+worker0:
+	new status: 49
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 467 -----------------> 
+worker0:
+	new status: 48
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 468 -----------------> 
+worker0:
+	new status: 47
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 469 -----------------> 
+worker0:
+	new status: 46
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 470 -----------------> 
+worker0:
+	new status: 45
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 471 -----------------> 
+worker0:
+	new status: 44
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 472 -----------------> 
+worker0:
+	new status: 43
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 473 -----------------> 
+worker0:
+	new status: 42
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 474 -----------------> 
+worker0:
+	new status: 41
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 475 -----------------> 
+worker0:
+	new status: 40
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 476 -----------------> 
+worker0:
+	new status: 39
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 477 -----------------> 
+worker0:
+	new status: 38
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 478 -----------------> 
+worker0:
+	new status: 37
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 479 -----------------> 
+worker0:
+	new status: 36
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 480 -----------------> 
+worker0:
+	new status: 35
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 481 -----------------> 
+worker0:
+	new status: 34
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 482 -----------------> 
+worker0:
+	new status: 33
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 483 -----------------> 
+worker0:
+	new status: 32
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 484 -----------------> 
+worker0:
+	new status: 31
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 485 -----------------> 
+worker0:
+	new status: 30
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 486 -----------------> 
+worker0:
+	new status: 29
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 487 -----------------> 
+worker0:
+	new status: 28
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 488 -----------------> 
+worker0:
+	new status: 27
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 489 -----------------> 
+worker0:
+	new status: 26
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 490 -----------------> 
+worker0:
+	new status: 25
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 491 -----------------> 
+worker0:
+	new status: 24
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 492 -----------------> 
+worker0:
+	new status: 23
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 493 -----------------> 
+worker0:
+	new status: 22
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 494 -----------------> 
+worker0:
+	new status: 21
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 495 -----------------> 
+worker0:
+	new status: 20
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 496 -----------------> 
+worker0:
+	new status: 19
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 497 -----------------> 
+worker0:
+	new status: 18
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 498 -----------------> 
+worker0:
+	new status: 17
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 499 -----------------> 
+worker0:
+	new status: 16
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 500 -----------------> 
+worker0:
+	new status: 15
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 501 -----------------> 
+worker0:
+	new status: 14
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 502 -----------------> 
+worker0:
+	new status: 13
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 503 -----------------> 
+worker0:
+	new status: 12
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 504 -----------------> 
+worker0:
+	new status: 11
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 505 -----------------> 
+worker0:
+	new status: 10
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 506 -----------------> 
+worker0:
+	new status: 9
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 507 -----------------> 
+worker0:
+	new status: 8
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 508 -----------------> 
+worker0:
+	new status: 7
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 509 -----------------> 
+worker0:
+	new status: 6
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 510 -----------------> 
+worker0:
+	new status: 5
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 511 -----------------> 
+worker0:
+	new status: 4
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 512 -----------------> 
+worker0:
+	new status: 3
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 513 -----------------> 
+worker0:
+	new status: 2
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 514 -----------------> 
+worker0:
+	new status: 1
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 515 -----------------> 
+worker0:
+	new status: 0
+	worked on: X
+	new work: G
+	new status: 67
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 516 -----------------> 
+worker0:
+	new status: 66
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 517 -----------------> 
+worker0:
+	new status: 65
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 518 -----------------> 
+worker0:
+	new status: 64
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 519 -----------------> 
+worker0:
+	new status: 63
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 520 -----------------> 
+worker0:
+	new status: 62
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 521 -----------------> 
+worker0:
+	new status: 61
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 522 -----------------> 
+worker0:
+	new status: 60
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 523 -----------------> 
+worker0:
+	new status: 59
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 524 -----------------> 
+worker0:
+	new status: 58
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 525 -----------------> 
+worker0:
+	new status: 57
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 526 -----------------> 
+worker0:
+	new status: 56
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 527 -----------------> 
+worker0:
+	new status: 55
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 528 -----------------> 
+worker0:
+	new status: 54
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 529 -----------------> 
+worker0:
+	new status: 53
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 530 -----------------> 
+worker0:
+	new status: 52
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 531 -----------------> 
+worker0:
+	new status: 51
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 532 -----------------> 
+worker0:
+	new status: 50
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 533 -----------------> 
+worker0:
+	new status: 49
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 534 -----------------> 
+worker0:
+	new status: 48
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 535 -----------------> 
+worker0:
+	new status: 47
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 536 -----------------> 
+worker0:
+	new status: 46
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 537 -----------------> 
+worker0:
+	new status: 45
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 538 -----------------> 
+worker0:
+	new status: 44
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 539 -----------------> 
+worker0:
+	new status: 43
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 540 -----------------> 
+worker0:
+	new status: 42
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 541 -----------------> 
+worker0:
+	new status: 41
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 542 -----------------> 
+worker0:
+	new status: 40
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 543 -----------------> 
+worker0:
+	new status: 39
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 544 -----------------> 
+worker0:
+	new status: 38
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 545 -----------------> 
+worker0:
+	new status: 37
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 546 -----------------> 
+worker0:
+	new status: 36
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 547 -----------------> 
+worker0:
+	new status: 35
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 548 -----------------> 
+worker0:
+	new status: 34
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 549 -----------------> 
+worker0:
+	new status: 33
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 550 -----------------> 
+worker0:
+	new status: 32
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 551 -----------------> 
+worker0:
+	new status: 31
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 552 -----------------> 
+worker0:
+	new status: 30
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 553 -----------------> 
+worker0:
+	new status: 29
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 554 -----------------> 
+worker0:
+	new status: 28
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 555 -----------------> 
+worker0:
+	new status: 27
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 556 -----------------> 
+worker0:
+	new status: 26
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 557 -----------------> 
+worker0:
+	new status: 25
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 558 -----------------> 
+worker0:
+	new status: 24
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 559 -----------------> 
+worker0:
+	new status: 23
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 560 -----------------> 
+worker0:
+	new status: 22
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 561 -----------------> 
+worker0:
+	new status: 21
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 562 -----------------> 
+worker0:
+	new status: 20
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 563 -----------------> 
+worker0:
+	new status: 19
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 564 -----------------> 
+worker0:
+	new status: 18
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 565 -----------------> 
+worker0:
+	new status: 17
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 566 -----------------> 
+worker0:
+	new status: 16
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 567 -----------------> 
+worker0:
+	new status: 15
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 568 -----------------> 
+worker0:
+	new status: 14
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 569 -----------------> 
+worker0:
+	new status: 13
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 570 -----------------> 
+worker0:
+	new status: 12
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 571 -----------------> 
+worker0:
+	new status: 11
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 572 -----------------> 
+worker0:
+	new status: 10
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 573 -----------------> 
+worker0:
+	new status: 9
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 574 -----------------> 
+worker0:
+	new status: 8
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 575 -----------------> 
+worker0:
+	new status: 7
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 576 -----------------> 
+worker0:
+	new status: 6
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 577 -----------------> 
+worker0:
+	new status: 5
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 578 -----------------> 
+worker0:
+	new status: 4
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 579 -----------------> 
+worker0:
+	new status: 3
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 580 -----------------> 
+worker0:
+	new status: 2
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 581 -----------------> 
+worker0:
+	new status: 1
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 582 -----------------> 
+worker0:
+	new status: 0
+	worked on: G
+	new work: T
+	new status: 80
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 583 -----------------> 
+worker0:
+	new status: 79
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 584 -----------------> 
+worker0:
+	new status: 78
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 585 -----------------> 
+worker0:
+	new status: 77
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 586 -----------------> 
+worker0:
+	new status: 76
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 587 -----------------> 
+worker0:
+	new status: 75
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 588 -----------------> 
+worker0:
+	new status: 74
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 589 -----------------> 
+worker0:
+	new status: 73
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 590 -----------------> 
+worker0:
+	new status: 72
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 591 -----------------> 
+worker0:
+	new status: 71
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 592 -----------------> 
+worker0:
+	new status: 70
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 593 -----------------> 
+worker0:
+	new status: 69
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 594 -----------------> 
+worker0:
+	new status: 68
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 595 -----------------> 
+worker0:
+	new status: 67
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 596 -----------------> 
+worker0:
+	new status: 66
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 597 -----------------> 
+worker0:
+	new status: 65
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 598 -----------------> 
+worker0:
+	new status: 64
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 599 -----------------> 
+worker0:
+	new status: 63
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 600 -----------------> 
+worker0:
+	new status: 62
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 601 -----------------> 
+worker0:
+	new status: 61
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 602 -----------------> 
+worker0:
+	new status: 60
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 603 -----------------> 
+worker0:
+	new status: 59
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 604 -----------------> 
+worker0:
+	new status: 58
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 605 -----------------> 
+worker0:
+	new status: 57
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 606 -----------------> 
+worker0:
+	new status: 56
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 607 -----------------> 
+worker0:
+	new status: 55
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 608 -----------------> 
+worker0:
+	new status: 54
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 609 -----------------> 
+worker0:
+	new status: 53
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 610 -----------------> 
+worker0:
+	new status: 52
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 611 -----------------> 
+worker0:
+	new status: 51
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 612 -----------------> 
+worker0:
+	new status: 50
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 613 -----------------> 
+worker0:
+	new status: 49
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 614 -----------------> 
+worker0:
+	new status: 48
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 615 -----------------> 
+worker0:
+	new status: 47
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 616 -----------------> 
+worker0:
+	new status: 46
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 617 -----------------> 
+worker0:
+	new status: 45
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 618 -----------------> 
+worker0:
+	new status: 44
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 619 -----------------> 
+worker0:
+	new status: 43
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 620 -----------------> 
+worker0:
+	new status: 42
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 621 -----------------> 
+worker0:
+	new status: 41
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 622 -----------------> 
+worker0:
+	new status: 40
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 623 -----------------> 
+worker0:
+	new status: 39
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 624 -----------------> 
+worker0:
+	new status: 38
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 625 -----------------> 
+worker0:
+	new status: 37
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 626 -----------------> 
+worker0:
+	new status: 36
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 627 -----------------> 
+worker0:
+	new status: 35
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 628 -----------------> 
+worker0:
+	new status: 34
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 629 -----------------> 
+worker0:
+	new status: 33
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 630 -----------------> 
+worker0:
+	new status: 32
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 631 -----------------> 
+worker0:
+	new status: 31
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 632 -----------------> 
+worker0:
+	new status: 30
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 633 -----------------> 
+worker0:
+	new status: 29
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 634 -----------------> 
+worker0:
+	new status: 28
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 635 -----------------> 
+worker0:
+	new status: 27
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 636 -----------------> 
+worker0:
+	new status: 26
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 637 -----------------> 
+worker0:
+	new status: 25
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 638 -----------------> 
+worker0:
+	new status: 24
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 639 -----------------> 
+worker0:
+	new status: 23
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 640 -----------------> 
+worker0:
+	new status: 22
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 641 -----------------> 
+worker0:
+	new status: 21
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 642 -----------------> 
+worker0:
+	new status: 20
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 643 -----------------> 
+worker0:
+	new status: 19
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 644 -----------------> 
+worker0:
+	new status: 18
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 645 -----------------> 
+worker0:
+	new status: 17
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 646 -----------------> 
+worker0:
+	new status: 16
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 647 -----------------> 
+worker0:
+	new status: 15
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 648 -----------------> 
+worker0:
+	new status: 14
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 649 -----------------> 
+worker0:
+	new status: 13
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 650 -----------------> 
+worker0:
+	new status: 12
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 651 -----------------> 
+worker0:
+	new status: 11
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 652 -----------------> 
+worker0:
+	new status: 10
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 653 -----------------> 
+worker0:
+	new status: 9
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 654 -----------------> 
+worker0:
+	new status: 8
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 655 -----------------> 
+worker0:
+	new status: 7
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 656 -----------------> 
+worker0:
+	new status: 6
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 657 -----------------> 
+worker0:
+	new status: 5
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 658 -----------------> 
+worker0:
+	new status: 4
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 659 -----------------> 
+worker0:
+	new status: 3
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 660 -----------------> 
+worker0:
+	new status: 2
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 661 -----------------> 
+worker0:
+	new status: 1
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 662 -----------------> 
+worker0:
+	new status: 0
+	worked on: T
+	new work: Z
+	new status: 86
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 663 -----------------> 
+worker0:
+	new status: 85
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 664 -----------------> 
+worker0:
+	new status: 84
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 665 -----------------> 
+worker0:
+	new status: 83
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 666 -----------------> 
+worker0:
+	new status: 82
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 667 -----------------> 
+worker0:
+	new status: 81
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 668 -----------------> 
+worker0:
+	new status: 80
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 669 -----------------> 
+worker0:
+	new status: 79
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 670 -----------------> 
+worker0:
+	new status: 78
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 671 -----------------> 
+worker0:
+	new status: 77
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 672 -----------------> 
+worker0:
+	new status: 76
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 673 -----------------> 
+worker0:
+	new status: 75
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 674 -----------------> 
+worker0:
+	new status: 74
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 675 -----------------> 
+worker0:
+	new status: 73
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 676 -----------------> 
+worker0:
+	new status: 72
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 677 -----------------> 
+worker0:
+	new status: 71
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 678 -----------------> 
+worker0:
+	new status: 70
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 679 -----------------> 
+worker0:
+	new status: 69
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 680 -----------------> 
+worker0:
+	new status: 68
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 681 -----------------> 
+worker0:
+	new status: 67
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 682 -----------------> 
+worker0:
+	new status: 66
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 683 -----------------> 
+worker0:
+	new status: 65
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 684 -----------------> 
+worker0:
+	new status: 64
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 685 -----------------> 
+worker0:
+	new status: 63
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 686 -----------------> 
+worker0:
+	new status: 62
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 687 -----------------> 
+worker0:
+	new status: 61
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 688 -----------------> 
+worker0:
+	new status: 60
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 689 -----------------> 
+worker0:
+	new status: 59
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 690 -----------------> 
+worker0:
+	new status: 58
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 691 -----------------> 
+worker0:
+	new status: 57
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 692 -----------------> 
+worker0:
+	new status: 56
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 693 -----------------> 
+worker0:
+	new status: 55
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 694 -----------------> 
+worker0:
+	new status: 54
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 695 -----------------> 
+worker0:
+	new status: 53
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 696 -----------------> 
+worker0:
+	new status: 52
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 697 -----------------> 
+worker0:
+	new status: 51
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 698 -----------------> 
+worker0:
+	new status: 50
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 699 -----------------> 
+worker0:
+	new status: 49
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 700 -----------------> 
+worker0:
+	new status: 48
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 701 -----------------> 
+worker0:
+	new status: 47
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 702 -----------------> 
+worker0:
+	new status: 46
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 703 -----------------> 
+worker0:
+	new status: 45
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 704 -----------------> 
+worker0:
+	new status: 44
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 705 -----------------> 
+worker0:
+	new status: 43
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 706 -----------------> 
+worker0:
+	new status: 42
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 707 -----------------> 
+worker0:
+	new status: 41
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 708 -----------------> 
+worker0:
+	new status: 40
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 709 -----------------> 
+worker0:
+	new status: 39
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 710 -----------------> 
+worker0:
+	new status: 38
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 711 -----------------> 
+worker0:
+	new status: 37
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 712 -----------------> 
+worker0:
+	new status: 36
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 713 -----------------> 
+worker0:
+	new status: 35
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 714 -----------------> 
+worker0:
+	new status: 34
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 715 -----------------> 
+worker0:
+	new status: 33
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 716 -----------------> 
+worker0:
+	new status: 32
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 717 -----------------> 
+worker0:
+	new status: 31
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 718 -----------------> 
+worker0:
+	new status: 30
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 719 -----------------> 
+worker0:
+	new status: 29
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 720 -----------------> 
+worker0:
+	new status: 28
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 721 -----------------> 
+worker0:
+	new status: 27
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 722 -----------------> 
+worker0:
+	new status: 26
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 723 -----------------> 
+worker0:
+	new status: 25
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 724 -----------------> 
+worker0:
+	new status: 24
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 725 -----------------> 
+worker0:
+	new status: 23
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 726 -----------------> 
+worker0:
+	new status: 22
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 727 -----------------> 
+worker0:
+	new status: 21
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 728 -----------------> 
+worker0:
+	new status: 20
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 729 -----------------> 
+worker0:
+	new status: 19
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 730 -----------------> 
+worker0:
+	new status: 18
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 731 -----------------> 
+worker0:
+	new status: 17
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 732 -----------------> 
+worker0:
+	new status: 16
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 733 -----------------> 
+worker0:
+	new status: 15
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 734 -----------------> 
+worker0:
+	new status: 14
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 735 -----------------> 
+worker0:
+	new status: 13
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 736 -----------------> 
+worker0:
+	new status: 12
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 737 -----------------> 
+worker0:
+	new status: 11
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 738 -----------------> 
+worker0:
+	new status: 10
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 739 -----------------> 
+worker0:
+	new status: 9
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 740 -----------------> 
+worker0:
+	new status: 8
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 741 -----------------> 
+worker0:
+	new status: 7
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 742 -----------------> 
+worker0:
+	new status: 6
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 743 -----------------> 
+worker0:
+	new status: 5
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 744 -----------------> 
+worker0:
+	new status: 4
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 745 -----------------> 
+worker0:
+	new status: 3
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 746 -----------------> 
+worker0:
+	new status: 2
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 747 -----------------> 
+worker0:
+	new status: 1
+worker1:
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 748 -----------------> 
+worker0:
+	new status: 0
+	worked on: Z
+	new work: F
+	new status: 66
+worker1:
+	new work: M
+	new status: 73
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 749 -----------------> 
+worker0:
+	new status: 65
+worker1:
+	new status: 72
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 750 -----------------> 
+worker0:
+	new status: 64
+worker1:
+	new status: 71
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 751 -----------------> 
+worker0:
+	new status: 63
+worker1:
+	new status: 70
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 752 -----------------> 
+worker0:
+	new status: 62
+worker1:
+	new status: 69
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 753 -----------------> 
+worker0:
+	new status: 61
+worker1:
+	new status: 68
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 754 -----------------> 
+worker0:
+	new status: 60
+worker1:
+	new status: 67
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 755 -----------------> 
+worker0:
+	new status: 59
+worker1:
+	new status: 66
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 756 -----------------> 
+worker0:
+	new status: 58
+worker1:
+	new status: 65
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 757 -----------------> 
+worker0:
+	new status: 57
+worker1:
+	new status: 64
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 758 -----------------> 
+worker0:
+	new status: 56
+worker1:
+	new status: 63
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 759 -----------------> 
+worker0:
+	new status: 55
+worker1:
+	new status: 62
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 760 -----------------> 
+worker0:
+	new status: 54
+worker1:
+	new status: 61
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 761 -----------------> 
+worker0:
+	new status: 53
+worker1:
+	new status: 60
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 762 -----------------> 
+worker0:
+	new status: 52
+worker1:
+	new status: 59
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 763 -----------------> 
+worker0:
+	new status: 51
+worker1:
+	new status: 58
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 764 -----------------> 
+worker0:
+	new status: 50
+worker1:
+	new status: 57
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 765 -----------------> 
+worker0:
+	new status: 49
+worker1:
+	new status: 56
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 766 -----------------> 
+worker0:
+	new status: 48
+worker1:
+	new status: 55
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 767 -----------------> 
+worker0:
+	new status: 47
+worker1:
+	new status: 54
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 768 -----------------> 
+worker0:
+	new status: 46
+worker1:
+	new status: 53
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 769 -----------------> 
+worker0:
+	new status: 45
+worker1:
+	new status: 52
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 770 -----------------> 
+worker0:
+	new status: 44
+worker1:
+	new status: 51
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 771 -----------------> 
+worker0:
+	new status: 43
+worker1:
+	new status: 50
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 772 -----------------> 
+worker0:
+	new status: 42
+worker1:
+	new status: 49
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 773 -----------------> 
+worker0:
+	new status: 41
+worker1:
+	new status: 48
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 774 -----------------> 
+worker0:
+	new status: 40
+worker1:
+	new status: 47
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 775 -----------------> 
+worker0:
+	new status: 39
+worker1:
+	new status: 46
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 776 -----------------> 
+worker0:
+	new status: 38
+worker1:
+	new status: 45
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 777 -----------------> 
+worker0:
+	new status: 37
+worker1:
+	new status: 44
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 778 -----------------> 
+worker0:
+	new status: 36
+worker1:
+	new status: 43
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 779 -----------------> 
+worker0:
+	new status: 35
+worker1:
+	new status: 42
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 780 -----------------> 
+worker0:
+	new status: 34
+worker1:
+	new status: 41
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 781 -----------------> 
+worker0:
+	new status: 33
+worker1:
+	new status: 40
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 782 -----------------> 
+worker0:
+	new status: 32
+worker1:
+	new status: 39
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 783 -----------------> 
+worker0:
+	new status: 31
+worker1:
+	new status: 38
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 784 -----------------> 
+worker0:
+	new status: 30
+worker1:
+	new status: 37
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 785 -----------------> 
+worker0:
+	new status: 29
+worker1:
+	new status: 36
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 786 -----------------> 
+worker0:
+	new status: 28
+worker1:
+	new status: 35
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 787 -----------------> 
+worker0:
+	new status: 27
+worker1:
+	new status: 34
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 788 -----------------> 
+worker0:
+	new status: 26
+worker1:
+	new status: 33
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 789 -----------------> 
+worker0:
+	new status: 25
+worker1:
+	new status: 32
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 790 -----------------> 
+worker0:
+	new status: 24
+worker1:
+	new status: 31
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 791 -----------------> 
+worker0:
+	new status: 23
+worker1:
+	new status: 30
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 792 -----------------> 
+worker0:
+	new status: 22
+worker1:
+	new status: 29
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 793 -----------------> 
+worker0:
+	new status: 21
+worker1:
+	new status: 28
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 794 -----------------> 
+worker0:
+	new status: 20
+worker1:
+	new status: 27
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 795 -----------------> 
+worker0:
+	new status: 19
+worker1:
+	new status: 26
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 796 -----------------> 
+worker0:
+	new status: 18
+worker1:
+	new status: 25
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 797 -----------------> 
+worker0:
+	new status: 17
+worker1:
+	new status: 24
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 798 -----------------> 
+worker0:
+	new status: 16
+worker1:
+	new status: 23
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 799 -----------------> 
+worker0:
+	new status: 15
+worker1:
+	new status: 22
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 800 -----------------> 
+worker0:
+	new status: 14
+worker1:
+	new status: 21
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 801 -----------------> 
+worker0:
+	new status: 13
+worker1:
+	new status: 20
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 802 -----------------> 
+worker0:
+	new status: 12
+worker1:
+	new status: 19
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 803 -----------------> 
+worker0:
+	new status: 11
+worker1:
+	new status: 18
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 804 -----------------> 
+worker0:
+	new status: 10
+worker1:
+	new status: 17
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 805 -----------------> 
+worker0:
+	new status: 9
+worker1:
+	new status: 16
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 806 -----------------> 
+worker0:
+	new status: 8
+worker1:
+	new status: 15
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 807 -----------------> 
+worker0:
+	new status: 7
+worker1:
+	new status: 14
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 808 -----------------> 
+worker0:
+	new status: 6
+worker1:
+	new status: 13
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 809 -----------------> 
+worker0:
+	new status: 5
+worker1:
+	new status: 12
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 810 -----------------> 
+worker0:
+	new status: 4
+worker1:
+	new status: 11
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 811 -----------------> 
+worker0:
+	new status: 3
+worker1:
+	new status: 10
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 812 -----------------> 
+worker0:
+	new status: 2
+worker1:
+	new status: 9
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 813 -----------------> 
+worker0:
+	new status: 1
+worker1:
+	new status: 8
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 814 -----------------> 
+worker0:
+	new status: 0
+	worked on: F
+	new work: D
+	new status: 64
+worker1:
+	new status: 7
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 815 -----------------> 
+worker0:
+	new status: 63
+worker1:
+	new status: 6
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 816 -----------------> 
+worker0:
+	new status: 62
+worker1:
+	new status: 5
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 817 -----------------> 
+worker0:
+	new status: 61
+worker1:
+	new status: 4
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 818 -----------------> 
+worker0:
+	new status: 60
+worker1:
+	new status: 3
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 819 -----------------> 
+worker0:
+	new status: 59
+worker1:
+	new status: 2
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 820 -----------------> 
+worker0:
+	new status: 58
+worker1:
+	new status: 1
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 821 -----------------> 
+worker0:
+	new status: 57
+worker1:
+	new status: 0
+	worked on: M
+	new work: H
+	new status: 68
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 822 -----------------> 
+worker0:
+	new status: 56
+worker1:
+	new status: 67
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 823 -----------------> 
+worker0:
+	new status: 55
+worker1:
+	new status: 66
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 824 -----------------> 
+worker0:
+	new status: 54
+worker1:
+	new status: 65
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 825 -----------------> 
+worker0:
+	new status: 53
+worker1:
+	new status: 64
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 826 -----------------> 
+worker0:
+	new status: 52
+worker1:
+	new status: 63
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 827 -----------------> 
+worker0:
+	new status: 51
+worker1:
+	new status: 62
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 828 -----------------> 
+worker0:
+	new status: 50
+worker1:
+	new status: 61
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 829 -----------------> 
+worker0:
+	new status: 49
+worker1:
+	new status: 60
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 830 -----------------> 
+worker0:
+	new status: 48
+worker1:
+	new status: 59
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 831 -----------------> 
+worker0:
+	new status: 47
+worker1:
+	new status: 58
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 832 -----------------> 
+worker0:
+	new status: 46
+worker1:
+	new status: 57
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 833 -----------------> 
+worker0:
+	new status: 45
+worker1:
+	new status: 56
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 834 -----------------> 
+worker0:
+	new status: 44
+worker1:
+	new status: 55
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 835 -----------------> 
+worker0:
+	new status: 43
+worker1:
+	new status: 54
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 836 -----------------> 
+worker0:
+	new status: 42
+worker1:
+	new status: 53
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 837 -----------------> 
+worker0:
+	new status: 41
+worker1:
+	new status: 52
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 838 -----------------> 
+worker0:
+	new status: 40
+worker1:
+	new status: 51
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 839 -----------------> 
+worker0:
+	new status: 39
+worker1:
+	new status: 50
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 840 -----------------> 
+worker0:
+	new status: 38
+worker1:
+	new status: 49
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 841 -----------------> 
+worker0:
+	new status: 37
+worker1:
+	new status: 48
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 842 -----------------> 
+worker0:
+	new status: 36
+worker1:
+	new status: 47
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 843 -----------------> 
+worker0:
+	new status: 35
+worker1:
+	new status: 46
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 844 -----------------> 
+worker0:
+	new status: 34
+worker1:
+	new status: 45
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 845 -----------------> 
+worker0:
+	new status: 33
+worker1:
+	new status: 44
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 846 -----------------> 
+worker0:
+	new status: 32
+worker1:
+	new status: 43
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 847 -----------------> 
+worker0:
+	new status: 31
+worker1:
+	new status: 42
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 848 -----------------> 
+worker0:
+	new status: 30
+worker1:
+	new status: 41
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 849 -----------------> 
+worker0:
+	new status: 29
+worker1:
+	new status: 40
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 850 -----------------> 
+worker0:
+	new status: 28
+worker1:
+	new status: 39
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 851 -----------------> 
+worker0:
+	new status: 27
+worker1:
+	new status: 38
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 852 -----------------> 
+worker0:
+	new status: 26
+worker1:
+	new status: 37
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 853 -----------------> 
+worker0:
+	new status: 25
+worker1:
+	new status: 36
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 854 -----------------> 
+worker0:
+	new status: 24
+worker1:
+	new status: 35
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 855 -----------------> 
+worker0:
+	new status: 23
+worker1:
+	new status: 34
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 856 -----------------> 
+worker0:
+	new status: 22
+worker1:
+	new status: 33
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 857 -----------------> 
+worker0:
+	new status: 21
+worker1:
+	new status: 32
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 858 -----------------> 
+worker0:
+	new status: 20
+worker1:
+	new status: 31
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 859 -----------------> 
+worker0:
+	new status: 19
+worker1:
+	new status: 30
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 860 -----------------> 
+worker0:
+	new status: 18
+worker1:
+	new status: 29
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 861 -----------------> 
+worker0:
+	new status: 17
+worker1:
+	new status: 28
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 862 -----------------> 
+worker0:
+	new status: 16
+worker1:
+	new status: 27
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 863 -----------------> 
+worker0:
+	new status: 15
+worker1:
+	new status: 26
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 864 -----------------> 
+worker0:
+	new status: 14
+worker1:
+	new status: 25
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 865 -----------------> 
+worker0:
+	new status: 13
+worker1:
+	new status: 24
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 866 -----------------> 
+worker0:
+	new status: 12
+worker1:
+	new status: 23
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 867 -----------------> 
+worker0:
+	new status: 11
+worker1:
+	new status: 22
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 868 -----------------> 
+worker0:
+	new status: 10
+worker1:
+	new status: 21
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 869 -----------------> 
+worker0:
+	new status: 9
+worker1:
+	new status: 20
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 870 -----------------> 
+worker0:
+	new status: 8
+worker1:
+	new status: 19
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 871 -----------------> 
+worker0:
+	new status: 7
+worker1:
+	new status: 18
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 872 -----------------> 
+worker0:
+	new status: 6
+worker1:
+	new status: 17
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 873 -----------------> 
+worker0:
+	new status: 5
+worker1:
+	new status: 16
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 874 -----------------> 
+worker0:
+	new status: 4
+worker1:
+	new status: 15
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 875 -----------------> 
+worker0:
+	new status: 3
+worker1:
+	new status: 14
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 876 -----------------> 
+worker0:
+	new status: 2
+worker1:
+	new status: 13
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 877 -----------------> 
+worker0:
+	new status: 1
+worker1:
+	new status: 12
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 878 -----------------> 
+worker0:
+	new status: 0
+	worked on: D
+	new work: None
+worker1:
+	new status: 11
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 879 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 10
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 880 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 9
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 881 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 8
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 882 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 7
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 883 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 6
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 884 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 5
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 885 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 4
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 886 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 3
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 887 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 2
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 888 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 1
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 889 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 0
+	worked on: H
+	new work: L
+	new status: 72
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 890 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 71
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 891 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 70
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 892 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 69
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 893 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 68
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 894 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 67
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 895 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 66
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 896 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 65
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 897 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 64
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 898 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 63
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 899 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 62
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 900 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 61
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 901 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 60
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 902 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 59
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 903 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 58
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 904 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 57
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 905 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 56
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 906 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 55
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 907 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 54
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 908 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 53
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 909 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 52
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 910 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 51
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 911 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 50
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 912 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 49
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 913 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 48
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 914 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 47
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 915 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 46
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 916 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 45
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 917 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 44
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 918 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 43
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 919 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 42
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 920 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 41
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 921 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 40
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 922 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 39
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 923 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 38
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 924 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 37
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 925 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 36
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 926 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 35
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 927 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 34
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 928 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 33
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 929 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 32
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 930 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 31
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 931 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 30
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 932 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 29
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 933 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 28
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 934 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 27
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 935 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 26
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 936 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 25
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 937 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 24
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 938 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 23
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 939 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 22
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 940 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 21
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 941 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 20
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 942 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 19
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 943 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 18
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 944 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 17
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 945 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 16
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 946 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 15
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 947 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 14
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 948 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 13
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 949 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 12
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 950 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 11
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 951 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 10
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 952 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 9
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 953 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 8
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 954 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 7
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 955 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 6
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 956 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 5
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 957 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 4
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 958 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 3
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 959 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 2
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 960 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 1
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 961 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 0
+	worked on: L
+	new work: P
+	new status: 76
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 962 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 75
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 963 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 74
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 964 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 73
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 965 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 72
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 966 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 71
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 967 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 70
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 968 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 69
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 969 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 68
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 970 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 67
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 971 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 66
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 972 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 65
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 973 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 64
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 974 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 63
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 975 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 62
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 976 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 61
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 977 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 60
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 978 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 59
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 979 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 58
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 980 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 57
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 981 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 56
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 982 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 55
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 983 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 54
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 984 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 53
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 985 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 52
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 986 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 51
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 987 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 50
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 988 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 49
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 989 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 48
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 990 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 47
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 991 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 46
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 992 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 45
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 993 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 44
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 994 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 43
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 995 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 42
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 996 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 41
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 997 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 40
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 998 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 39
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 999 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 38
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1000 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 37
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1001 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 36
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1002 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 35
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1003 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 34
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1004 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 33
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1005 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 32
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1006 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 31
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1007 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 30
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1008 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 29
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1009 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 28
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1010 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 27
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1011 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 26
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1012 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 25
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1013 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 24
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1014 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 23
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1015 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 22
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1016 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 21
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1017 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 20
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1018 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 19
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1019 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 18
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1020 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 17
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1021 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 16
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1022 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 15
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1023 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 14
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1024 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 13
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1025 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 12
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1026 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 11
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1027 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 10
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1028 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 9
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1029 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 8
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1030 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 7
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1031 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 6
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1032 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 5
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1033 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 4
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1034 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 3
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1035 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 2
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1036 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 1
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1037 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 0
+	worked on: P
+	new work: C
+	new status: 63
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1038 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 62
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1039 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 61
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1040 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 60
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1041 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 59
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1042 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 58
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1043 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 57
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1044 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 56
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1045 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 55
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1046 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 54
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1047 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 53
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1048 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 52
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1049 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 51
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1050 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 50
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1051 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 49
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1052 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 48
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1053 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 47
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1054 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 46
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1055 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 45
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1056 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 44
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1057 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 43
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1058 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 42
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1059 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 41
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1060 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 40
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1061 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 39
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1062 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 38
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1063 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 37
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1064 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 36
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1065 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 35
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1066 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 34
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1067 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 33
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1068 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 32
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1069 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 31
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1070 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 30
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1071 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 29
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1072 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 28
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1073 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 27
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1074 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 26
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1075 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 25
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1076 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 24
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1077 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 23
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1078 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 22
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1079 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 21
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1080 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 20
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1081 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 19
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1082 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 18
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1083 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 17
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1084 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 16
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1085 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 15
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1086 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 14
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1087 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 13
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1088 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 12
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1089 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 11
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1090 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 10
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1091 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 9
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1092 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 8
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1093 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 7
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1094 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 6
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1095 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 5
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1096 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 4
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1097 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 3
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1098 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 2
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1099 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 1
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+<------------------ 1100 -----------------> 
+worker0:
+	new work: None
+worker1:
+	new status: 0
+	worked on: C
+	new work: None
+worker2:
+	new work: None
+worker3:
+	new work: None
+worker4:
+	new work: None
+1100
