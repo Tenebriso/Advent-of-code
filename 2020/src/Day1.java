@@ -49,7 +49,7 @@ public class Day1 {
 
 
     public static void main(String[] args) {
-        String input = "small_input1.txt";
+        String input = "input1.txt";
         // part 1
         try {
             System.out.println(part1(input));
