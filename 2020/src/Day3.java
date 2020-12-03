@@ -44,11 +44,8 @@ public class Day3 {
 
     public static long part2(String input, Move[] moves) throws FileNotFoundException {
         long prod = 1;
-        for (Move move : moves) {
-            int sum = part1(input, move.i, move.j);
-            System.out.format("For %d, %d sum = %d\n", move.i, move.j, sum);
-            prod *= sum;
-        }
+        for (Move move : moves)
+            prod *= part1(input, move.i, move.j);
         return prod;
     }
 
