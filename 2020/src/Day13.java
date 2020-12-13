@@ -44,8 +44,7 @@ public class Day13 {
 
     public static long part2(String input) throws FileNotFoundException {
         int[] buses = read_buses(input);
-        long lcm = 1;
-        long timestamp = 0;
+        long lcm = 1, timestamp = 0;
         for (int i = 0; i < buses.length; i++) {
             if (buses[i] == 0)
                 continue;
