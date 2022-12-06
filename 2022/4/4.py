@@ -1,10 +1,6 @@
 def check_if_contained(intervals):
     a1, a2, b1, b2 = _interval_heads(intervals)
-    if a1 <= b1 and a2 >= b2:
-        return True
-    if b1 <= a1 and b2 >= a2:
-        return True
-    return False
+    return (a1 <= b1 and a2 >= b2) or (b1 <= a1 and b2 >= a2)
 
 
 def _interval_heads(intervals):
@@ -15,11 +11,7 @@ def _interval_heads(intervals):
 
 def check_if_overlapped(intervals):
     a1, a2, b1, b2 = _interval_heads(intervals)
-    if a1 <= b1 <= a2:
-        return True
-    if b1 <= a1 <= b2:
-        return True
-    return False
+    return a1 <= b1 <= a2 or b1 <= a1 <= b2
 
 
 def solve(part):
