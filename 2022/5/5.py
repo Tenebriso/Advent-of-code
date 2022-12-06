@@ -55,13 +55,11 @@ def read_tops(stacks):
 
 
 def solve(part):
+    apply_instruction = apply_instruction_single_crate if part == 1 else apply_instruction_multiple_crates
     with open("input") as fp:
         stacks = read_stacks(fp)
         for instruction in read_instructions(fp):
-            if part == 1:
-                apply_instruction_single_crate(stacks, *instruction)
-            elif part == 2:
-                apply_instruction_multiple_crates(stacks, *instruction)
+            apply_instruction(stacks, *instruction)
     return read_tops(stacks)
 
 
