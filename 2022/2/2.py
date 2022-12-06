@@ -14,25 +14,17 @@ def _calculate_round_score(enemy_move, my_move):
     return score
 
 
-def part_one():
+def solve(part):
     score = 0
     with open('input') as fp:
         for line in fp:
             enemy_move, my_move = line.strip().split()
-            score += _calculate_round_score(enemy_move, my_move)
-    return score
-
-
-def part_two():
-    score = 0
-    with open('input') as fp:
-        for line in fp:
-            enemy_move, outcome = line.strip().split()
-            my_move = outcomes_to_moves[outcome][enemy_move]
+            if part == 2:
+                my_move = outcomes_to_moves[my_move][enemy_move]
             score += _calculate_round_score(enemy_move, my_move)
     return score
 
 
 if __name__ == '__main__':
-    print(f"Part 1: {part_one()}")
-    print(f"Part 2: {part_two()}")
+    print(f"Part 1: {solve(1)}")
+    print(f"Part 2: {solve(2)}")
