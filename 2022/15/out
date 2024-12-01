@@ -1,0 +1,563 @@
+Sensor (2, 18): 
+		mid = 1
+		should be higher
+On 0, for (2, 18), leftmost possible beacon is: 2
+Sensor (9, 16): 
+		mid = 4
+		should be higher
+		mid = 7
+		should be higher
+On 0, for (9, 16), leftmost possible beacon is: 9
+Sensor (13, 2): 
+		mid = 6
+		should be higher
+		mid = 10
+		should be higher
+		mid = 12
+		should be higher
+On 0, for (13, 2), leftmost possible beacon is: -1
+On 0 leftest beacon could be -1
+Sensor (2, 18): 
+		mid = 1
+		should be higher
+On 1, for (2, 18), leftmost possible beacon is: 2
+Sensor (9, 16): 
+		mid = 4
+		should be higher
+		mid = 7
+		should be higher
+On 1, for (9, 16), leftmost possible beacon is: 9
+Sensor (13, 2): 
+		mid = 6
+		should be higher
+		mid = 10
+		should be higher
+		mid = 12
+		can be even lower
+On 1, for (13, 2), leftmost possible beacon is: 11
+Sensor (12, 14): 
+		mid = 6
+		should be higher
+		mid = 9
+		should be higher
+		mid = 11
+		should be higher
+On 1, for (12, 14), leftmost possible beacon is: 12
+Sensor (10, 20): 
+		mid = 5
+		should be higher
+		mid = 8
+		should be higher
+On 1, for (10, 20), leftmost possible beacon is: 10
+Sensor (14, 17): 
+		mid = 7
+		should be higher
+		mid = 11
+		should be higher
+		mid = 13
+		should be higher
+On 1, for (14, 17), leftmost possible beacon is: 14
+Sensor (8, 7): 
+		mid = 4
+		should be higher
+		mid = 6
+		can be even lower
+On 1, for (8, 7), leftmost possible beacon is: 5
+Sensor (2, 0): 
+		mid = 1
+		can be even lower
+On 1, for (2, 0), leftmost possible beacon is: -1
+On 1 leftest beacon could be -1
+Sensor (2, 18): 
+		mid = 1
+		should be higher
+On 2, for (2, 18), leftmost possible beacon is: 2
+Sensor (9, 16): 
+		mid = 4
+		should be higher
+		mid = 7
+		should be higher
+On 2, for (9, 16), leftmost possible beacon is: 9
+Sensor (13, 2): 
+		mid = 6
+		should be higher
+		mid = 10
+		should be higher
+		mid = 12
+		can be even lower
+On 2, for (13, 2), leftmost possible beacon is: -1
+On 2 leftest beacon could be -1
+Sensor (2, 18): 
+		mid = 1
+		should be higher
+On 3, for (2, 18), leftmost possible beacon is: 2
+Sensor (9, 16): 
+		mid = 4
+		should be higher
+		mid = 7
+		should be higher
+On 3, for (9, 16), leftmost possible beacon is: 9
+Sensor (13, 2): 
+		mid = 6
+		should be higher
+		mid = 10
+		should be higher
+		mid = 12
+		can be even lower
+On 3, for (13, 2), leftmost possible beacon is: 11
+Sensor (12, 14): 
+		mid = 6
+		should be higher
+		mid = 9
+		should be higher
+		mid = 11
+		should be higher
+On 3, for (12, 14), leftmost possible beacon is: 12
+Sensor (10, 20): 
+		mid = 5
+		should be higher
+		mid = 8
+		should be higher
+On 3, for (10, 20), leftmost possible beacon is: 10
+Sensor (14, 17): 
+		mid = 7
+		should be higher
+		mid = 11
+		should be higher
+		mid = 13
+		should be higher
+On 3, for (14, 17), leftmost possible beacon is: 14
+Sensor (8, 7): 
+		mid = 4
+		can be even lower
+		mid = 2
+		should be higher
+On 3, for (8, 7), leftmost possible beacon is: 3
+Sensor (2, 0): 
+		mid = 1
+		can be even lower
+On 3, for (2, 0), leftmost possible beacon is: -1
+On 3 leftest beacon could be -1
+Sensor (2, 18): 
+		mid = 1
+		should be higher
+On 4, for (2, 18), leftmost possible beacon is: 2
+Sensor (9, 16): 
+		mid = 4
+		should be higher
+		mid = 7
+		should be higher
+On 4, for (9, 16), leftmost possible beacon is: 9
+Sensor (13, 2): 
+		mid = 6
+		should be higher
+		mid = 10
+		should be higher
+		mid = 12
+		should be higher
+On 4, for (13, 2), leftmost possible beacon is: -1
+On 4 leftest beacon could be -1
+Sensor (2, 18): 
+		mid = 1
+		should be higher
+On 5, for (2, 18), leftmost possible beacon is: 2
+Sensor (9, 16): 
+		mid = 4
+		should be higher
+		mid = 7
+		should be higher
+On 5, for (9, 16), leftmost possible beacon is: 9
+Sensor (13, 2): 
+		mid = 6
+		should be higher
+		mid = 10
+		should be higher
+		mid = 12
+		should be higher
+On 5, for (13, 2), leftmost possible beacon is: 13
+Sensor (12, 14): 
+		mid = 6
+		should be higher
+		mid = 9
+		should be higher
+		mid = 11
+		should be higher
+On 5, for (12, 14), leftmost possible beacon is: 12
+Sensor (10, 20): 
+		mid = 5
+		should be higher
+		mid = 8
+		should be higher
+On 5, for (10, 20), leftmost possible beacon is: 10
+Sensor (14, 17): 
+		mid = 7
+		should be higher
+		mid = 11
+		should be higher
+		mid = 13
+		should be higher
+On 5, for (14, 17), leftmost possible beacon is: 14
+Sensor (8, 7): 
+		mid = 4
+		can be even lower
+		mid = 2
+		can be even lower
+		mid = 1
+		should be higher
+On 5, for (8, 7), leftmost possible beacon is: -1
+On 5 leftest beacon could be -1
+Sensor (2, 18): 
+		mid = 1
+		should be higher
+On 6, for (2, 18), leftmost possible beacon is: 2
+Sensor (9, 16): 
+		mid = 4
+		should be higher
+		mid = 7
+		should be higher
+On 6, for (9, 16), leftmost possible beacon is: 9
+Sensor (13, 2): 
+		mid = 6
+		should be higher
+		mid = 10
+		should be higher
+		mid = 12
+		should be higher
+On 6, for (13, 2), leftmost possible beacon is: 13
+Sensor (12, 14): 
+		mid = 6
+		should be higher
+		mid = 9
+		should be higher
+		mid = 11
+		should be higher
+On 6, for (12, 14), leftmost possible beacon is: 12
+Sensor (10, 20): 
+		mid = 5
+		should be higher
+		mid = 8
+		should be higher
+On 6, for (10, 20), leftmost possible beacon is: 10
+Sensor (14, 17): 
+		mid = 7
+		should be higher
+		mid = 11
+		should be higher
+		mid = 13
+		should be higher
+On 6, for (14, 17), leftmost possible beacon is: 14
+Sensor (8, 7): 
+		mid = 4
+		can be even lower
+		mid = 2
+		can be even lower
+		mid = 1
+		can be even lower
+On 6, for (8, 7), leftmost possible beacon is: 0
+Sensor (2, 0): 
+		mid = 1
+		can be even lower
+On 6, for (2, 0), leftmost possible beacon is: -1
+On 6 leftest beacon could be -1
+Sensor (2, 18): 
+		mid = 1
+		should be higher
+On 7, for (2, 18), leftmost possible beacon is: 2
+Sensor (9, 16): 
+		mid = 4
+		should be higher
+		mid = 7
+		should be higher
+On 7, for (9, 16), leftmost possible beacon is: 9
+Sensor (13, 2): 
+		mid = 6
+		should be higher
+		mid = 10
+		should be higher
+		mid = 12
+		should be higher
+On 7, for (13, 2), leftmost possible beacon is: 13
+Sensor (12, 14): 
+		mid = 6
+		should be higher
+		mid = 9
+		should be higher
+		mid = 11
+		should be higher
+On 7, for (12, 14), leftmost possible beacon is: 12
+Sensor (10, 20): 
+		mid = 5
+		should be higher
+		mid = 8
+		should be higher
+On 7, for (10, 20), leftmost possible beacon is: 10
+Sensor (14, 17): 
+		mid = 7
+		should be higher
+		mid = 11
+		should be higher
+		mid = 13
+		should be higher
+On 7, for (14, 17), leftmost possible beacon is: 14
+Sensor (8, 7): 
+		mid = 4
+		can be even lower
+		mid = 2
+		can be even lower
+		mid = 1
+		can be even lower
+On 7, for (8, 7), leftmost possible beacon is: -1
+On 7 leftest beacon could be -1
+Sensor (2, 18): 
+		mid = 1
+		should be higher
+On 8, for (2, 18), leftmost possible beacon is: 2
+Sensor (9, 16): 
+		mid = 4
+		should be higher
+		mid = 7
+		should be higher
+On 8, for (9, 16), leftmost possible beacon is: 9
+Sensor (13, 2): 
+		mid = 6
+		should be higher
+		mid = 10
+		should be higher
+		mid = 12
+		should be higher
+On 8, for (13, 2), leftmost possible beacon is: 13
+Sensor (12, 14): 
+		mid = 6
+		should be higher
+		mid = 9
+		should be higher
+		mid = 11
+		should be higher
+On 8, for (12, 14), leftmost possible beacon is: 12
+Sensor (10, 20): 
+		mid = 5
+		should be higher
+		mid = 8
+		should be higher
+On 8, for (10, 20), leftmost possible beacon is: 10
+Sensor (14, 17): 
+		mid = 7
+		should be higher
+		mid = 11
+		should be higher
+		mid = 13
+		should be higher
+On 8, for (14, 17), leftmost possible beacon is: 14
+Sensor (8, 7): 
+		mid = 4
+		can be even lower
+		mid = 2
+		can be even lower
+		mid = 1
+		can be even lower
+On 8, for (8, 7), leftmost possible beacon is: 0
+Sensor (2, 0): 
+		mid = 1
+		can be even lower
+On 8, for (2, 0), leftmost possible beacon is: 0
+Sensor (0, 11): 
+On 8, for (0, 11), leftmost possible beacon is: 0
+Sensor (20, 14): 
+		mid = 10
+		should be higher
+		mid = 15
+		should be higher
+		mid = 18
+		should be higher
+On 8, for (20, 14), leftmost possible beacon is: -1
+On 8 leftest beacon could be -1
+Sensor (2, 18): 
+		mid = 1
+		should be higher
+On 9, for (2, 18), leftmost possible beacon is: 2
+Sensor (9, 16): 
+		mid = 4
+		should be higher
+		mid = 7
+		should be higher
+On 9, for (9, 16), leftmost possible beacon is: 9
+Sensor (13, 2): 
+		mid = 6
+		should be higher
+		mid = 10
+		should be higher
+		mid = 12
+		should be higher
+On 9, for (13, 2), leftmost possible beacon is: 13
+Sensor (12, 14): 
+		mid = 6
+		should be higher
+		mid = 9
+		should be higher
+		mid = 11
+		should be higher
+On 9, for (12, 14), leftmost possible beacon is: 12
+Sensor (10, 20): 
+		mid = 5
+		should be higher
+		mid = 8
+		should be higher
+On 9, for (10, 20), leftmost possible beacon is: 10
+Sensor (14, 17): 
+		mid = 7
+		should be higher
+		mid = 11
+		should be higher
+		mid = 13
+		should be higher
+On 9, for (14, 17), leftmost possible beacon is: 14
+Sensor (8, 7): 
+		mid = 4
+		can be even lower
+		mid = 2
+		can be even lower
+		mid = 1
+		should be higher
+On 9, for (8, 7), leftmost possible beacon is: -1
+On 9 leftest beacon could be -1
+Sensor (2, 18): 
+		mid = 1
+		should be higher
+On 10, for (2, 18), leftmost possible beacon is: 2
+Sensor (9, 16): 
+		mid = 4
+		should be higher
+		mid = 7
+		should be higher
+On 10, for (9, 16), leftmost possible beacon is: 9
+Sensor (13, 2): 
+		mid = 6
+		should be higher
+		mid = 10
+		should be higher
+		mid = 12
+		should be higher
+On 10, for (13, 2), leftmost possible beacon is: 13
+Sensor (12, 14): 
+		mid = 6
+		should be higher
+		mid = 9
+		should be higher
+		mid = 11
+		should be higher
+On 10, for (12, 14), leftmost possible beacon is: 12
+Sensor (10, 20): 
+		mid = 5
+		should be higher
+		mid = 8
+		should be higher
+On 10, for (10, 20), leftmost possible beacon is: 10
+Sensor (14, 17): 
+		mid = 7
+		should be higher
+		mid = 11
+		should be higher
+		mid = 13
+		should be higher
+On 10, for (14, 17), leftmost possible beacon is: 14
+Sensor (8, 7): 
+		mid = 4
+		can be even lower
+		mid = 2
+		should be higher
+On 10, for (8, 7), leftmost possible beacon is: -1
+On 10 leftest beacon could be -1
+Sensor (2, 18): 
+		mid = 1
+		should be higher
+On 11, for (2, 18), leftmost possible beacon is: 2
+Sensor (9, 16): 
+		mid = 4
+		should be higher
+		mid = 7
+		should be higher
+On 11, for (9, 16), leftmost possible beacon is: 9
+Sensor (13, 2): 
+		mid = 6
+		should be higher
+		mid = 10
+		should be higher
+		mid = 12
+		should be higher
+On 11, for (13, 2), leftmost possible beacon is: 13
+Sensor (12, 14): 
+		mid = 6
+		should be higher
+		mid = 9
+		should be higher
+		mid = 11
+		should be higher
+On 11, for (12, 14), leftmost possible beacon is: -1
+On 11 leftest beacon could be -1
+Sensor (2, 18): 
+		mid = 1
+		should be higher
+On 12, for (2, 18), leftmost possible beacon is: -1
+On 12 leftest beacon could be -1
+Sensor (2, 18): 
+		mid = 1
+		can be even lower
+On 13, for (2, 18), leftmost possible beacon is: 0
+Sensor (9, 16): 
+		mid = 4
+		should be higher
+		mid = 7
+		should be higher
+On 13, for (9, 16), leftmost possible beacon is: 9
+Sensor (13, 2): 
+		mid = 6
+		should be higher
+		mid = 10
+		should be higher
+		mid = 12
+		should be higher
+On 13, for (13, 2), leftmost possible beacon is: 13
+Sensor (12, 14): 
+		mid = 6
+		should be higher
+		mid = 9
+		should be higher
+		mid = 11
+		can be even lower
+On 13, for (12, 14), leftmost possible beacon is: -1
+On 13 leftest beacon could be -1
+Sensor (2, 18): 
+		mid = 1
+		can be even lower
+On 14, for (2, 18), leftmost possible beacon is: -1
+On 14 leftest beacon could be -1
+Sensor (2, 18): 
+		mid = 1
+		can be even lower
+On 15, for (2, 18), leftmost possible beacon is: -1
+On 15 leftest beacon could be -1
+Sensor (2, 18): 
+		mid = 1
+		can be even lower
+On 16, for (2, 18), leftmost possible beacon is: -1
+On 16 leftest beacon could be -1
+Sensor (2, 18): 
+		mid = 1
+		can be even lower
+On 17, for (2, 18), leftmost possible beacon is: -1
+On 17 leftest beacon could be -1
+Sensor (2, 18): 
+		mid = 1
+		can be even lower
+On 18, for (2, 18), leftmost possible beacon is: -1
+On 18 leftest beacon could be -1
+Sensor (2, 18): 
+		mid = 1
+		can be even lower
+On 19, for (2, 18), leftmost possible beacon is: -1
+On 19 leftest beacon could be -1
+Sensor (2, 18): 
+		mid = 1
+		can be even lower
+On 20, for (2, 18), leftmost possible beacon is: -1
+On 20 leftest beacon could be -1
